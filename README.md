@@ -289,7 +289,7 @@
 1. :cd: "[Hanalei](https://www.youtube.com/watch?v=UGVzkSg0ZV0)" (from I'm with You Sessions)
 1. :cd: "[Open/Close](https://www.youtube.com/watch?v=VwWV62EfYkU)" (from I'm with You Sessions)
 1. :fire: "[Everybody Knows This Is Nowhere](https://www.youtube.com/watch?v=VCjeTJu-tfY)" (live at Manchester 2011, Neil Young cover, from "Rock & Roll Hall of Fame Covers" compilation album)
-1. :fire: "[Renaissance](https://www.youtube.com/watch?v=Vr6uDiLyI9s)" (live at Beirut 2012, from "I'm with You" sessions")
+1. :fire: "[Renaissance](https://www.youtube.com/watch?v=Vr6uDiLyI9s)" (live at Beirut 2012, from "I'm with You" sessions)
 
 ### [The Getaway](https://www.youtube.com/watch_videos?title=The%20Getaway&video_ids=smgGN-LxZuA,mmavgM4hYA4,K9gRuN6W1_U,fITTAIHWFuM,DmpuViZ4lgE,UxqQTfQ5SlU,-7eBFbLDz3g,-3CIabuzIM8,2JeJDklwEuc,HEjkDumKeU4,GFfzBFog_uQ,s2TO6-zct04,3c2lXO_-J7I,djgSAtV-13M,UvYiEj47Gwo)
 1. :fire: "[The Getaway](https://www.youtube.com/watch?v=smgGN-LxZuA)" (live at Del Mar 2017)
