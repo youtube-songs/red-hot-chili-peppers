@@ -1,43 +1,43 @@
-title: 'Red Hot Chili Peppers'
+title: Red Hot Chili Peppers
 
 'The Red Hot Chili Peppers':
     "True Men Don't Kill Coyotes":
         id: V83kHRA1_bs
-        live: 'Rockpalast 1985'
+        live: Rockpalast 1985
     'Baby Appeal':
         id: Uz2lXK5rS5k
-        live: 'Rockpalast 1985'
+        live: Rockpalast 1985
     'Buckle Down':
         id: 607zeHM11pM
-        live: 'Rockpalast 1985'
+        live: Rockpalast 1985
     'Get Up and Jump':
-        id: '-JAM-UDQT5M'
-        live: 'Rockpalast 1985'
+        id: -JAM-UDQT5M
+        live: Rockpalast 1985
     "Why Don't You Love Me":
         id: 2Cory44jWqU
-        live: 'The Patio 1985'
-        cover: 'Hank Williams'
+        live: The Patio 1985
+        cover: Hank Williams
     'Green Heaven':
         id: o8YbEFnygZA
-        live: 'Rockpalast 1985'
+        live: Rockpalast 1985
     "Mommy Where's Daddy?":
         id: GpKLFJtqowE
-        live: 'Pinkpop 1990'
+        live: Pinkpop 1990
     'Out in L.A.':
         id: EZmWQwX5Fv4
-        live: 'Rockpalast 1985'
+        live: Rockpalast 1985
     'Police Helicopter':
         id: KbPKw4cLO5Q
-        live: 'Provnissi Rock Festival 1988'
+        live: Provnissi Rock Festival 1988
     'You Always Sing the Same':
         id: t8HyxBQnd1Q
-        live: 'Madrid 2002'
+        live: Madrid 2002
     'Grand Pappy Du Plenty':
         id: i_XFb9esiWA
     "What It Is (AKA Nina's Song)":
         id: 2wcSUCaoBQM
         source: '"Out in L.A." compilation album'
-    Stranded:
+    'Stranded':
         id: Qfe-8BbfbFI
         source: '"Out in L.A." compilation album'
     'Flea Fly':
@@ -46,136 +46,136 @@ title: 'Red Hot Chili Peppers'
 'Freaky Styley':
     'Jungle Man':
         id: rMSfah6E2B8
-        live: 'Germany 1985'
+        live: Germany 1985
     'Hollywood (Africa)':
         id: lzfYfQvrvQU
-        live: 'Rockpalast 1985'
-        cover: 'The Meters'
+        live: Rockpalast 1985
+        cover: The Meters
     'American Ghost Dance':
         id: s_cnVBoM23Y
-        live: 'Indianapolis 1985'
+        live: Indianapolis 1985
     'If You Want Me to Stay':
         id: jsXkP0HTf3w
-        cover: 'Sly & the Family Stone'
-    Nevermind:
+        cover: Sly & the Family Stone
+    'Nevermind':
         id: Q550oxvlJSk
-        live: 'Paris 1988'
+        live: Paris 1988
     'Freaky Styley':
         id: pZtuB8kamtY
-        live: 'Madison Square Garden 1996'
+        live: Madison Square Garden 1996
     'Blackeyed Blonde':
         id: 4rofk1WsXOE
-        live: 'Off the Map 2000'
+        live: Off the Map 2000
     'The Brothers Cup':
         id: oJprMufFlXw
-        live: 'Santa Cruz 1986'
-    Battleship:
+        live: Santa Cruz 1986
+    'Battleship':
         id: DL5mqGXB0b4
-        live: 'Columbus 1984'
+        live: Columbus 1984
     "Lovin' and Touchin'":
         id: zfq_Rb8EM34
-        live: 'Mississippi Nights 1986'
+        live: Mississippi Nights 1986
     'Catholic School Girls Rule':
         id: QJPZL2jDihU
-        live: 'The Ritz 1986'
+        live: The Ritz 1986
     'Sex Rap':
         id: 3tCHURxNCcc
-        live: 'Paris 2006'
+        live: Paris 2006
     'Thirty Dirty Birds':
         id: cN6CW4w9hpk
-        live: 'The Ritz 1985'
+        live: The Ritz 1985
     'Yertle the Turtle':
         id: T1Y05mNxWks
-        live: 'Hannover 2016'
+        live: Hannover 2016
     'Oom Chucka Willie':
         id: NaM6zgqlGGY
-        source: 'recording sessions'
+        source: recording sessions
     'Prince Of Sadness':
         id: Ex5xWtD0Sh4
-        source: 'recording sessions'
-    Bone:
+        source: recording sessions
+    'Bone':
         id: _IfkD84Vh3A
-        source: 'recording sessions'
+        source: recording sessions
     'Set It Straight':
         id: tMSiKAnAIXI
         source: '"Tough Guys" film'
 'The Uplift Mofo Party Plan':
     'Fight Like a Brave':
         id: pk9nPVKrUTw
-        live: 'Pinkpop Festival 1988'
+        live: Pinkpop Festival 1988
     'Funky Crime':
         id: P3FCT6kT4n4
-        live: 'Pinkpop Festival 1990'
+        live: Pinkpop Festival 1990
     'Me and My Friends':
         id: GmoS_E4qhDs
-        live: 'Paris 2006'
-    Backwoods:
+        live: Paris 2006
+    'Backwoods':
         id: qaePWd0Wqq0
-        live: 'Pinkpop Festival 1990'
+        live: Pinkpop Festival 1990
     'Skinny Sweaty Man':
         id: ZymdEOAH5xE
-        live: 'Off The Map 2000'
+        live: Off The Map 2000
     'Behind the Sun':
         id: o8fX0mcU6to
     'Subterranean Homesick Blues':
         id: NhoOOOln-Fw
-        live: 'Off The Map 2000'
+        live: Off The Map 2000
     'Party on Your Pussy':
         id: ggcwvZpLNjA
-        live: 'George Mason University 1989'
+        live: George Mason University 1989
     'No Chump Love Sucker':
         id: mYSZtBTJIn8
-        live: 'Landgraaf 1987'
+        live: Landgraaf 1987
     "Walkin' on Down the Road":
         id: _sktwR3GkXM
     'Love Trilogy':
         id: mnoarg0c9Vk
-        live: 'Las Vegas 1998'
+        live: Las Vegas 1998
     'Organic Anti-Beat Box Band':
         id: xdd6BkD41zU
-        live: 'Arsenio Hall 1987'
+        live: Arsenio Hall 1987
     'Blues for Meister':
         id: MjpAmPoqSB0
         source: '"Out in L.A." compilation album'
-    Aroma:
+    'Aroma':
         id: c7vBpGr1e7A
-        source: 'instrumental demos'
+        source: instrumental demos
 "Mother's Milk":
     'Good Time Boys':
         id: 5iIBfsy6kE8
-        live: 'Long Beach Arena 1989'
+        live: Long Beach Arena 1989
     'Higher Ground':
         id: 1XvVlbNJPIE
-        live: 'Paris 2011'
-        cover: 'Stevie Wonder'
+        live: Paris 2011
+        cover: Stevie Wonder
     'Subway to Venus':
         id: zsLf-L4tIZM
-        live: 'Del Mar 1991'
+        live: Del Mar 1991
     'Magic Johnson':
         id: a-VLqCHWeLs
-        live: 'Milano 1992'
+        live: Milano 1992
     'Nobody Weird Like Me':
         id: RHTQTs6fj5E
-        live: 'London 2022'
+        live: London 2022
     'Knock Me Down':
         id: on_97ntUpkE
-        live: 'Long Beach Arena 1989'
+        live: Long Beach Arena 1989
     'Taste the Pain':
         id: OCQJvggdbGs
-        live: 'Long Beach 1988'
+        live: Long Beach 1988
     'Stone Cold Bush':
         id: n0GoMnPuOGs
-        live: 'Long Beach 1989'
-    Fire:
+        live: Long Beach 1989
+    'Fire':
         id: fNx6b4Wxaqs
-        live: 'Off The Map 2000'
-        cover: 'Jimi Hendrix'
+        live: Off The Map 2000
+        cover: Jimi Hendrix
     'Pretty Little Ditty':
         id: Jo32HBoTbRc
-        live: 'Kawasaki 1990'
+        live: Kawasaki 1990
     'Punk Rock Classic':
         id: bsvOMzO4Zw0
-        live: 'Long Beach 1988'
+        live: Long Beach 1988
     'Sexy Mexican Maid':
         id: bEf_Wfqou3I
         live: '1989'
@@ -183,137 +183,137 @@ title: 'Red Hot Chili Peppers'
         id: n9JJ__hqTOo
     'Song That Made Us What We Are Today':
         id: kvjhCJ-1do8
-        source: 'remastered edition'
+        source: remastered edition
     'Salute to Kareem':
         id: abNSJyzvDjU
-        source: 'remastered edition'
+        source: remastered edition
     'Castles Made of Sand':
         id: t96-5miabxQ
-        source: 'remastered edition'
-        cover: 'Jimi Hendrix'
+        source: remastered edition
+        cover: Jimi Hendrix
     'Crosstown Traffic':
         id: My5kevSthEo
-        live: 'Cleveland 1989'
-        source: 'remastered edition'
-        cover: 'Jimi Hendrix'
+        live: Cleveland 1989
+        source: remastered edition
+        cover: Jimi Hendrix
     'Millionaires Against Hunger':
         id: NLJtMwYYLX8
-        source: 'B-side of "Higher Ground"'
+        source: B-side of "Higher Ground"
     'Politician (Mini Rap)':
         id: cQ9zDQ7mj0Y
-        source: 'B-side of "Higher Ground"'
+        source: B-side of "Higher Ground"
     'Show Me Your Soul':
         id: ToAk89ozubA
         source: '"Pretty Woman" soundtrack'
-    F.U.:
-        id: '-sjuk5Np7FI'
-        live: 'Phantasy Theatre 1989'
-        cover: 'Thelonious Monk'
+    'F.U.':
+        id: -sjuk5Np7FI
+        live: Phantasy Theatre 1989
+        cover: Thelonious Monk
         source: '"Out in L.A." compilation album'
     'Tiny Dancer':
         id: ybkOJ4EbswM
-        live: 'Landgraaf 1990'
-        cover: 'Elton John'
+        live: Landgraaf 1990
+        cover: Elton John
         source: '"Under the Covers: Essential Red Hot Chili Peppers" compilation album'
     'Dr. Funkenstein':
         id: 31Iic15bkp4
-        live: 'Lakewood 1989'
+        live: Lakewood 1989
         cover: Parliament
         source: '"Under the Covers: Essential Red Hot Chili Peppers" compilation album'
 'Blood Sugar Sex Magik':
     'The Power of Equality':
         id: V2bh1feOjZk
-        live: 'Slane 2003'
+        live: Slane 2003
     'If You Have to Ask':
         id: SCoUGJRyQEs
-        live: 'Sydney 2000'
+        live: Sydney 2000
     'Breaking the Girl':
         id: _ry2oTLKcPA
-        live: 'New York 2003'
+        live: New York 2003
     'Funky Monks':
         id: f3hWXE5zJBk
-        live: 'Denver 2006'
+        live: Denver 2006
     'Suck My Kiss':
         id: xNNVyGonlKU
-        live: 'Off the Map 2000'
+        live: Off the Map 2000
     'I Could Have Lied':
         id: 50YPE51CU4A
-        live: 'Off the Map 2000'
+        live: Off the Map 2000
     'Mellowship Slinky in B Major':
         id: RRQwn8rmZfo
     'The Righteous & the Wicked':
         id: 0aJfQdui66E
     'Give It Away':
         id: c26fQhpxdtk
-        live: 'Milano 2006'
+        live: Milano 2006
     'Blood Sugar Sex Magik':
         id: q3cQ9_i3OEk
-        live: 'Woodstock 1994'
+        live: Woodstock 1994
     'Under the Bridge':
         id: uDn7jfzvcv4
-        live: 'Slane 2003'
+        live: Slane 2003
     'Naked in the Rain':
         id: jYJh0AGud-k
-        live: 'Civic Center 1990'
+        live: Civic Center 1990
     'Apache Rose Peacock':
         id: _AAixJwhy2M
     'The Greeting Song':
         id: nUj11BOA32g
     'My Lovely Man':
         id: EZ_5J431YIo
-        live: 'Nürburg 2004'
+        live: Nürburg 2004
     'Sir Psycho Sexy':
         id: zFxpdFt3JAs
-        live: 'Woodstock 1999'
+        live: Woodstock 1999
     "They're Red Hot":
         id: ZDFAsb6SNSw
-        live: 'Udine 2007'
+        live: Udine 2007
     'Little Miss Lover':
         id: qxTYoM3CQHk
-        source: 'deluxe edition'
+        source: deluxe edition
     'Search and Destroy':
         id: TAetm2h39v8
-        live: 'Paris 2002'
-        cover: 'The Stooges'
-        source: 'B-side of "Give It Away"'
+        live: Paris 2002
+        cover: The Stooges
+        source: B-side of "Give It Away"
     'Soul to Squeeze':
         id: B0QHErlSm-4
-        live: 'Chorzów 2007'
-        source: 'B-side of "Give It Away"'
-    Sikamikanico:
+        live: Chorzów 2007
+        source: B-side of "Give It Away"
+    'Sikamikanico':
         id: P-dS7ZPLRY4
-        live: 'Rock in Rio 2019'
-        source: 'B-side of "Under the Bridge"'
+        live: Rock in Rio 2019
+        source: B-side of "Under the Bridge"
     "Fela's Cock":
         id: B3GTTOWGn_E
-        source: 'B-side of "Breaking the Girl"'
+        source: B-side of "Breaking the Girl"
     'Deck the Halls':
         id: 5PIuTXqFrMg
-        cover: 'Christmas carol'
+        cover: Christmas carol
         source: '"Out in L.A." compilation album'
     'Bullet Proof':
         id: _QGtlOdnbBk
-        live: 'Del Mar 1991'
-        cover: 'George Clinton'
+        live: Del Mar 1991
+        cover: George Clinton
 'One Hot Minute':
-    Warped:
+    'Warped':
         id: xmyuJZH3RAc
-    Aeroplane:
+    'Aeroplane':
         id: 0dE4pHUgqU0
-        live: 'New York 1996'
+        live: New York 1996
     'Deep Kick':
         id: kj4o-sbKYe4
     'My Friends':
         id: 0kT5w27YxyI
     'Coffee Shop':
         id: WkkKStRwokQ
-    Pea:
+    'Pea':
         id: BXJjBo_u3WM
     'One Big Mob':
         id: AF4UaL08beU
-    Walkabout:
+    'Walkabout':
         id: SW4yvVhB1PE
-    Tearjerker:
+    'Tearjerker':
         id: CZbG9V5EyIM
     'One Hot Minute':
         id: T6Ii7D4rYrg
@@ -321,254 +321,254 @@ title: 'Red Hot Chili Peppers'
         id: 5531o-YeGtk
     'Shallow Be Thy Game':
         id: BwT8zKrjiJw
-    Transcending:
+    'Transcending':
         id: oyZ_-O3YVEY
-    Bob:
+    'Bob':
         id: 72T4Xce8-x0
-        source: 'deluxe edition'
+        source: deluxe edition
     'Melancholy Mechanics':
         id: 56PWNtiIV3o
-        source: 'B-side of "Warped"'
+        source: B-side of "Warped"
     "Let's Make Evil":
         id: 8kFavNl07SE
-        source: 'B-side of "My Friends"'
-    Stretch:
+        source: B-side of "My Friends"
+    'Stretch':
         id: S0wtM8PdaBQ
-        source: 'B-side of "My Friends"'
+        source: B-side of "My Friends"
     'Suffragette City':
         id: cF3KXXMJOPQ
-        live: 'Rotterdam 1995'
-        cover: 'David Bowie'
-        source: 'B-side of "Aeroplane"'
+        live: Rotterdam 1995
+        cover: David Bowie
+        source: B-side of "Aeroplane"
     'I Found Out':
         id: qfbI82qdOls
-        cover: 'John Lennon'
+        cover: John Lennon
         source: '"Working Class Hero: A Tribute to John Lennon" compilation album'
     'Love Rollercoaster':
         id: 4n6D8lB0A9w
-        cover: 'Ohio Players'
+        cover: Ohio Players
         source: '"Beavis and Butt-Head Do America" soundtrack'
     'Circle Of The Noose':
         id: ePKYs6eCzC8
-        source: 'the sessions to follow up album'
-Californication:
+        source: the sessions to follow up album
+'Californication':
     'Around the World':
         id: ZqMseqjqwTo
-        live: 'Slane 2003'
+        live: Slane 2003
     'Parallel Universe':
         id: CkwV0TWRAok
-        live: 'Slane 2003'
+        live: Slane 2003
     'Scar Tissue':
         id: eDN4GZkvd60
-        live: 'Paris 2006'
-    Otherside:
+        live: Paris 2006
+    'Otherside':
         id: bFLs9mi6TK0
-        live: 'Slane 2003'
+        live: Slane 2003
     'Get on Top':
         id: 400TTymE4-I
-        live: 'Nürburg 2004'
-    Californication:
+        live: Nürburg 2004
+    'Californication':
         id: vKX6AL1sLiI
-        live: 'Slane 2003'
-    Easily:
+        live: Slane 2003
+    'Easily':
         id: GDWcHya_ASo
-        live: 'Off The Map'
-    Porcelain:
+        live: Off The Map
+    'Porcelain':
         id: j0tHXHcq724
     'Emit Remmus':
         id: smVD9wVutrQ
-        live: 'Chorzów 2007'
+        live: Chorzów 2007
     'I Like Dirt':
         id: jCN63r3kUMo
-        live: 'Sydney 2000'
+        live: Sydney 2000
     'This Velvet Glove':
         id: KQOFAhqGG9k
-        live: 'Chorzów 2007'
-    Savior:
+        live: Chorzów 2007
+    'Savior':
         id: lt_toRKH4p4
-        live: 'Toronto 1999'
+        live: Toronto 1999
     'Purple Stain':
         id: Elsge3oYYYA
-        live: 'Slane 2003'
+        live: Slane 2003
     'Right on Time':
         id: FaHKQBRFNHU
-        live: 'New York 2006'
+        live: New York 2006
     "Road Trippin'":
         id: RoQ5d5e7uns
-        live: 'Mountain View 2004'
+        live: Mountain View 2004
     'Fat Dance':
         id: zzlxNsqKCwg
-        source: 'deluxe edition'
+        source: deluxe edition
     'Over Funk':
         id: oj_w9EsAQzQ
-        source: 'deluxe edition'
-    Quixoticelixer:
+        source: deluxe edition
+    'Quixoticelixer':
         id: sspiWqii5vw
-        source: 'deluxe edition'
+        source: deluxe edition
     'Gong Li':
         id: g6TRzzfZjlU
-        source: 'B-side of "Scar Tissue"'
+        source: B-side of "Scar Tissue"
     'Instrumental #1':
         id: zUTWSL_uSuE
-        source: 'B-side of "Scar Tissue"'
+        source: B-side of "Scar Tissue"
     'Teatro Jam':
         id: vyfwf8Kmnw8
-        source: 'B-side of "Around The World"'
+        source: B-side of "Around The World"
     'Yertle Trilogy':
         id: xCqZSX_ZvSc
-        source: 'B-side of "Around The World"'
+        source: B-side of "Around The World"
     'How Strong':
         id: ArQiPAzpx48
-        source: 'B-side of "Otherside"'
+        source: B-side of "Otherside"
     'End of Show Brisbane':
         id: vg_ah1hjDcI
-        live: 'Brisbane 2000'
-        source: 'B-side of "Californication"'
+        live: Brisbane 2000
+        source: B-side of "Californication"
     'End of Show State College':
         id: 9-cFxN4odKg
-        live: 'State College 2000'
-        source: 'B-side of "Californication"'
+        live: State College 2000
+        source: B-side of "Californication"
     'Instrumental #2':
         id: 9jDHLbjoqYM
-        source: 'Australian edition'
+        source: Australian edition
     "Tellin' A Lie":
         id: ZJZn1ABUWRI
-        source: 'Teatro Sessions'
-    Mommasan:
+        source: Teatro Sessions
+    'Mommasan':
         id: jF345qkBXF0
-        source: 'Teatro Sessions'
+        source: Teatro Sessions
     'Andaman & Nicobar':
         id: GjFXn3ZvlHc
-        source: 'Teatro Sessions'
+        source: Teatro Sessions
     'Sugar Sugar':
         id: 9l4OW37FhCE
-        source: 'Teatro Sessions'
+        source: Teatro Sessions
     'Trouble In The Pub':
         id: VXAgh_zkyGY
-        source: 'Teatro Sessions'
-    Boatman:
+        source: Teatro Sessions
+    'Boatman':
         id: BY7TUfJSrpY
-        source: 'Teatro Sessions'
+        source: Teatro Sessions
     'Plate Of Brown':
         id: fkWqjouMdSs
-        source: 'Teatro Sessions'
+        source: Teatro Sessions
 'By The Way':
     'By the Way':
         id: Gtmnt-Ol1UY
-        live: 'Slane 2003'
+        live: Slane 2003
     'Universally Speaking':
         id: wU1HbwC71j4
-        live: 'Slane 2003'
+        live: Slane 2003
     'This Is the Place':
         id: 4evjn1-QAjQ
-        live: 'Montreal 2003'
-    Dosed:
+        live: Montreal 2003
+    'Dosed':
         id: uhKZ8VJFZy4
-        live: 'Glendale 2017'
+        live: Glendale 2017
     "Don't Forget Me":
         id: gG7YDCJ8Ad8
-        live: 'Paris 2006'
+        live: Paris 2006
     'The Zephyr Song':
         id: DqAiJE6zGEg
-        live: 'Slane 2003'
+        live: Slane 2003
     "Can't Stop":
         id: Cc3sC63sTFg
-        live: 'Slane 2003'
+        live: Slane 2003
     'I Could Die for You':
         id: ky18niAuxes
-        live: 'Madrid 2002'
-    Midnight:
+        live: Madrid 2002
+    'Midnight':
         id: 4QhFuJWqTAc
     'Throw Away Your Television':
         id: hB-WHw6uMWg
-        live: 'Slane 2003'
-    Cabron:
+        live: Slane 2003
+    'Cabron':
         id: zazQKZ6D8UE
-        live: 'London 2002'
-    Tear:
+        live: London 2002
+    'Tear':
         id: 9OzjUuB3WHo
     'On Mercury':
         id: X4ahMG3Iu8w
     'Minor Thing':
         id: qB1kYCTh3x8
-        live: 'Los Angeles 2002'
+        live: Los Angeles 2002
     'Warm Tape':
         id: OnbOL1Z3Gt8
-        live: 'Dortmund 2003'
+        live: Dortmund 2003
     'Venice Queen':
         id: ljrgs4TzkTQ
-        live: 'Slane 2003'
-    Runaway:
+        live: Slane 2003
+    'Runaway':
         id: 0LPL8F01lqs
-        source: 'deluxe edition'
+        source: deluxe edition
     'Bicycle Song':
         id: KxmEnbRzxQw
-        source: 'deluxe edition'
+        source: deluxe edition
     'Fall Water':
         id: C2Xb7a400Dc
-        source: 'demo session'
-    Goldmine:
+        source: demo session
+    'Goldmine':
         id: PuVdwAiMak0
-        source: 'demo session'
+        source: demo session
     'Rock & Roll':
         id: 3xwv6EJxC0I
-        source: 'demo session'
-    Time:
+        source: demo session
+    'Time':
         id: M6RMq-WiCJE
-        source: 'B-side of "By the Way"'
+        source: B-side of "By the Way"
     'Teenager in Love':
         id: iYYNfpO2GrA
-        cover: 'Dion and the Belmonts'
-        source: 'B-side of "By the Way"'
+        cover: Dion and the Belmonts
+        source: B-side of "By the Way"
     'What Is Soul?':
         id: kldWAZPU8TA
-        live: 'Off The Map'
+        live: Off The Map
         cover: Funkadelic
-        source: 'B-side of "By the Way"'
+        source: B-side of "By the Way"
     'Body of Water':
         id: vWqN-3ecc64
-        source: 'B-side of "The Zephyr Song"'
-    Someone:
+        source: B-side of "The Zephyr Song"
+    'Someone':
         id: AATqzT7mzuQ
-        source: 'B-side of "The Zephyr Song"'
+        source: B-side of "The Zephyr Song"
     'Out of Range':
         id: o0yzcb59IIs
-        source: 'B-side of "The Zephyr Song"'
+        source: B-side of "The Zephyr Song"
     'Rivers of Avalon':
         id: b46SkuckKsY
-        source: 'B-side of "The Zephyr Song"'
+        source: B-side of "The Zephyr Song"
     'Christchurch Fireworks Music':
         id: FYKeZibTWNk
-        live: 'Christchurch 2002'
-        source: 'B-side of "Can''t Stop"'
+        live: Christchurch 2002
+        source: B-side of "Can't Stop"
     'Nothing to Lose':
         id: 7BYu3Ed9YMc
-        live: 'Las Vegas 2002'
-        source: 'B-side of "Can''t Stop"'
+        live: Las Vegas 2002
+        source: B-side of "Can't Stop"
     'Slowly Deeply':
         id: hOIjWgw6CwM
-        source: 'B-side of "Universally Speaking"'
+        source: B-side of "Universally Speaking"
     'Fortune Faded':
         id: 3cAht9TdqVI
-        live: 'Yokohama 2004'
+        live: Yokohama 2004
         source: '"Greatest Hits" compilation album'
-    Eskimo:
+    'Eskimo':
         id: 9ZAPwlntLt8
-        source: 'B-side of "Fortune Faded"'
+        source: B-side of "Fortune Faded"
     'Bunker Hill':
         id: pBo55gu8b1Q
-        source: 'B-side of "Fortune Faded"'
+        source: B-side of "Fortune Faded"
     'Tuesday Night in Berlin':
         id: JVvHzXZk25c
-        live: 'Berlin 2003'
-        source: 'B-side of "Fortune Faded"'
+        live: Berlin 2003
+        source: B-side of "Fortune Faded"
     'Save the Population':
         id: tSjw2LMtl9U
         source: '"Greatest Hits" compilation album'
-    50/Fifty:
+    '50/Fifty':
         id: hYzRu776p-k
         source: '"Greatest Hits" compilation album'
-    Starlight:
+    'Starlight':
         id: TxscvwCVEwQ
         source: '"Greatest Hits" compilation album'
     'Havana Affair':
@@ -577,122 +577,122 @@ Californication:
         source: '"We''re a Happy Family: A Tribute to Ramones" compilation album'
     'I Feel Love':
         id: 1944QWi01Ow
-        live: 'Hyde Park 2004'
-        cover: 'Donna Summer'
+        live: Hyde Park 2004
+        cover: Donna Summer
         source: '"Live in Hyde Park" live album'
-    Brandy:
+    'Brandy':
         id: 6_m53hrW3uc
-        live: 'London 2004'
-        cover: 'Looking Glass'
+        live: London 2004
+        cover: Looking Glass
         source: '"Live in Hyde Park" live album'
     'Rolling Sly Stone':
         id: IJ_xlBelD4Y
-        live: 'Hyde Park 2004'
+        live: Hyde Park 2004
         source: '"Live in Hyde Park" live album'
     'Leverage of Space':
         id: bQYq_NEsPVY
-        live: 'Hyde Park 2004'
+        live: Hyde Park 2004
         source: '"Live in Hyde Park" live album'
     'Drum Homage Medley':
         id: 81rPFh_gP3Y
-        live: 'Hyde Park 2004'
+        live: Hyde Park 2004
         source: '"Live in Hyde Park" live album'
     'Black Cross':
         id: JINUbu1pSeg
-        live: 'Hyde Park 2004'
-        cover: '45 Grave'
+        live: Hyde Park 2004
+        cover: 45 Grave
         source: '"Live in Hyde Park" live album'
     "Flea's Trumpet Treated by John":
         id: Om40S1Yu-Lw
-        live: 'Hyde Park 2004'
+        live: Hyde Park 2004
         source: '"Live in Hyde Park" live album'
     'Mini-Epic (Kill for Your Country)':
         id: agOPYVuJZIU
-        live: 'Cardiff 2004'
+        live: Cardiff 2004
         source: '"Cardiff, Wales: 6/23/04" live album'
     'I Get Around':
         id: Hz6ibuY_Ezw
-        live: 'Los Angeles 2005'
-        cover: 'The Beach Boys'
+        live: Los Angeles 2005
+        cover: The Beach Boys
         source: '"Rock & Roll Hall of Fame Covers" compilation album'
     'Beverly Hills':
         id: dRcXnH_Rshg
-        live: 'Rock In Rio 2001'
-        cover: 'Circle Jerks'
+        live: Rock In Rio 2001
+        cover: Circle Jerks
         source: '"The Bridge School Collection, Vol.1" compilation album'
     'I Just Want to Have Something to Do':
         id: T9yxwWM62Nk
-        live: 'Mountain View 2004'
+        live: Mountain View 2004
         cover: Ramones
         source: '"The Bridge School Collection, Vol.1" compilation album'
 'Stadium Arcadium':
     'Dani California':
         id: MSdD_7N-x0Q
-        live: 'Milano 2006'
+        live: Milano 2006
     'Snow (Hey Oh)':
         id: QMdx_vWmPyc
-        live: 'Chorzów 2007'
-    Charlie:
+        live: Chorzów 2007
+    'Charlie':
         id: MPLc5ahUR9U
-        live: 'Milan 2006'
+        live: Milan 2006
     'Stadium Arcadium':
         id: MYdJTR1i67Q
-        live: 'Lisbon 2006'
+        live: Lisbon 2006
     'Hump de Bump':
         id: oNnyKhYRxas
-        live: 'Bilbao 2006'
+        live: Bilbao 2006
     "She's Only 18":
         id: STTzhgmzUGk
-        live: 'Chorzów 2007'
+        live: Chorzów 2007
     'Slow Cheetah':
-        id: '-877RlLrhJA'
+        id: -877RlLrhJA
     'Torture Me':
         id: mWwZi7N2YtY
-        live: 'Copenhague 2006'
+        live: Copenhague 2006
     'Strip My Mind':
         id: r3KIEgXSJIE
-        live: 'Boston 2006'
+        live: Boston 2006
     'Especially in Michigan':
         id: 16zvMPHNAn4
-    Warlocks:
+    'Warlocks':
         id: nUrjVdHOGXE
-        live: 'T in the Park 2006'
+        live: T in the Park 2006
     "C'mon Girl":
         id: MkkqXz1fo9s
-        live: 'Abbey Road Studios 2006'
+        live: Abbey Road Studios 2006
     'Wet Sand':
         id: svJVi1SDUfQ
-        live: 'Yuzawa 2006'
-    Hey:
+        live: Yuzawa 2006
+    'Hey':
         id: EaS1ST4GYQc
-        live: 'Tokyo 2007'
+        live: Tokyo 2007
     'Desecration Smile':
         id: yDxVqhK3oj8
-        live: 'AOL Session 2006'
+        live: AOL Session 2006
     'Tell Me Baby':
         id: CoujavyWj6M
-        live: 'Paris 2006'
+        live: Paris 2006
     'Hard to Concentrate':
         id: tlxcOBTcTvg
-        live: 'Paris 2011'
+        live: Paris 2011
     '21st Century':
         id: Q9OZpSgiLGQ
-        live: 'Paris 2006'
+        live: Paris 2006
     'She Looks to Me':
         id: 1_yirYhYLDU
-    Readymade:
+    'Readymade':
         id: 5wIMpavU2KU
-        live: 'Chorzów 2007'
-    If:
+        live: Chorzów 2007
+    'If':
         id: IUgEXqTpD28
-        live: 'Lollapalooza Argentina 2018'
+        live: Lollapalooza Argentina 2018
     'Make You Feel Better':
         id: I3-TO3CE2dY
     'Animal Bar':
         id: HeSatuQQpI8
     'So Much I':
         id: OKqK2iXwCbc
-        live: 'Chorzów 2007'
+        live: Chorzów 2007
     'Storm in a Teacup':
         id: 6odVqa_Q2Hw
     'We Believe':
@@ -703,203 +703,203 @@ Californication:
         id: 44S9JcqkioY
     'Million Miles of Water':
         id: hfyi9cewKe4
-        source: 'B-side of "Dani California"'
+        source: B-side of "Dani California"
     'Whatever We Want':
         id: Phl5zMEDbUo
-        source: 'B-side of "Dani California"'
-    Lately:
+        source: B-side of "Dani California"
+    'Lately':
         id: o-g2xPH6Z2w
-        source: 'B-side of "Dani California"'
+        source: B-side of "Dani California"
     'A Certain Someone':
         id: uodn9x8CDqQ
-        source: 'B-side of "Tell Me Baby"'
+        source: B-side of "Tell Me Baby"
     'Mercy Mercy':
         id: ypqiyZwoiME
-        source: 'B-side of "Tell Me Baby"'
+        source: B-side of "Tell Me Baby"
     'Lyon 6.6.06':
         id: OO56ifSgsio
-        live: 'Lyon 2006'
-        source: 'B-side of "Tell Me Baby"'
-    Permutation:
+        live: Lyon 2006
+        source: B-side of "Tell Me Baby"
+    'Permutation':
         id: t4dzic40hMo
-        live: 'Montreal 2006'
-        source: 'B-side of "Snow (Hey Oh)"'
+        live: Montreal 2006
+        source: B-side of "Snow (Hey Oh)"
     'Funny Face':
         id: yro5ohnpbXQ
-        source: 'B-side of "Snow (Hey Oh)"'
+        source: B-side of "Snow (Hey Oh)"
     "I'll Be Your Domino":
         id: qeqxzusURjQ
-        source: 'B-side of "Snow (Hey Oh)"'
-    Joe:
+        source: B-side of "Snow (Hey Oh)"
+    'Joe':
         id: SPQm_g4UvZs
-        source: 'B-side of "Desecration Smile"'
+        source: B-side of "Desecration Smile"
     'Save This Lady':
         id: cL3UsX45PW4
-        source: 'B-side of "Desecration Smile"'
+        source: B-side of "Desecration Smile"
     'An Opening':
         id: 0DVffgsaRRU
-        live: 'Orlando 2007'
-        source: 'B-side of "Hump de Bump"'
+        live: Orlando 2007
+        source: B-side of "Hump de Bump"
     'My Boy, My Girl':
         id: 0U2Cz4zGx6k
-        live: 'London 2006'
+        live: London 2006
         source: the live session in Canvas Club
 "I'm with You":
     'Monarchy of Roses':
         id: 6uFuvItikc0
-        live: 'Paris 2011'
+        live: Paris 2011
     'Factory of Faith':
         id: zXBAJb0pPDU
-        live: 'Koko 2011'
+        live: Koko 2011
     "Brendan's Death Song":
         id: g4W7ILPwUok
-        live: 'Lollapalooza 2012'
-    Ethiopia:
+        live: Lollapalooza 2012
+    'Ethiopia':
         id: nahpjbTXMdg
-        live: 'Sheffield 2011'
+        live: Sheffield 2011
     'Annie Wants a Baby':
         id: YduwOpn5mHU
-        live: 'Charlotte 2012'
+        live: Charlotte 2012
     'Look Around':
         id: UJFynSIqL0s
-        live: 'Orlando 2012'
+        live: Orlando 2012
     'The Adventures of Rain Dance Maggie':
         id: 2FnK3BPBuSo
-        live: 'São Paulo 2018'
+        live: São Paulo 2018
     'Did I Let You Know':
         id: tCjkAT7BTCs
-        live: 'Helsinki 2016'
+        live: Helsinki 2016
     'Goodbye Hooray':
         id: Kxsgbgg8_P0
-        live: 'Köln 2011'
+        live: Köln 2011
     'Happiness Loves Company':
         id: uC-Mr7eXPwA
-        live: 'Raleigh 2012'
+        live: Raleigh 2012
     'Police Station':
         id: CdLteAQeofc
-        live: 'Sunrise 2012'
+        live: Sunrise 2012
     'Even You Brutus?':
         id: TE4e3hmnDNs
     'Meet Me at the Corner':
         id: NnRgVGL0ob8
-        live: 'Koko 2011'
+        live: Koko 2011
     'Dance, Dance, Dance':
         id: 9qEcH3vhf_w
-        live: 'Köln 2011'
+        live: Köln 2011
     'Strange Man':
         id: DmPPONFRla4
-        source: "I'm with You Sessions"
+        source: I'm with You Sessions
     'Long Progression':
         id: XBtSHoflrVY
-        source: "I'm with You Sessions"
+        source: I'm with You Sessions
     'Magpies on Fire':
         id: Odw2fQOQBFc
-        source: "I'm with You Sessions"
+        source: I'm with You Sessions
     'Victorian Machinery':
         id: o-4Fo-gJnXU
-        source: "I'm with You Sessions"
+        source: I'm with You Sessions
     'Never Is a Long Time':
         id: pxAqxI5R6RA
-        source: "I'm with You Sessions"
+        source: I'm with You Sessions
     'Love of Your Life':
         id: g4LFjWlcoF8
-        source: "I'm with You Sessions"
+        source: I'm with You Sessions
     'The Sunset Sleeps':
         id: KUlSJGgTulY
-        source: "I'm with You Sessions"
+        source: I'm with You Sessions
     'Hometown Gypsy':
         id: chVLUCdK_zY
-        source: "I'm with You Sessions"
+        source: I'm with You Sessions
     'Pink as Floyd':
         id: bcP-nC0lWTc
-        source: "I'm with You Sessions"
+        source: I'm with You Sessions
     'Your Eyes Girl':
         id: NI6OHk-docQ
-        source: "I'm with You Sessions"
+        source: I'm with You Sessions
     'In Love Dying':
         id: 2uhTHpf0c9E
-        source: "I'm with You Sessions"
+        source: I'm with You Sessions
     'Catch My Death':
         id: tPvA1Xhp1Jk
-        source: "I'm with You Sessions"
+        source: I'm with You Sessions
     'How It Ends':
         id: 6K02Xu9P9wo
-        source: "I'm with You Sessions"
+        source: I'm with You Sessions
     'This Is the Kitt':
         id: To9yNezdHp8
-        source: "I'm with You Sessions"
+        source: I'm with You Sessions
     'Brave From Afar':
         id: _Mx82hTic90
-        source: "I'm with You Sessions"
-    Hanalei:
+        source: I'm with You Sessions
+    'Hanalei':
         id: UGVzkSg0ZV0
-        source: "I'm with You Sessions"
-    Open/Close:
+        source: I'm with You Sessions
+    'Open/Close':
         id: VwWV62EfYkU
-        source: "I'm with You Sessions"
+        source: I'm with You Sessions
     'Everybody Knows This Is Nowhere':
         id: VCjeTJu-tfY
-        live: 'Manchester 2011'
-        cover: 'Neil Young'
+        live: Manchester 2011
+        cover: Neil Young
         source: '"Rock & Roll Hall of Fame Covers" compilation album'
-    Renaissance:
+    'Renaissance':
         id: Vr6uDiLyI9s
-        live: 'Beirut 2012'
-        source: '"I''m with You" sessions"'
+        live: Beirut 2012
+        source: '"I''m with You" sessions'
 'The Getaway':
     'The Getaway':
         id: smgGN-LxZuA
-        live: 'Del Mar 2017'
+        live: Del Mar 2017
     'Dark Necessities':
         id: mmavgM4hYA4
-        live: 'Del Mar 2017'
+        live: Del Mar 2017
     'We Turn Red':
         id: K9gRuN6W1_U
-        live: 'Hannover 2016'
+        live: Hannover 2016
     'The Longest Wave':
         id: fITTAIHWFuM
-        live: 'Philadelphia 2017'
+        live: Philadelphia 2017
     'Goodbye Angels':
         id: DmpuViZ4lgE
-        live: 'Meadows Festival 2017'
+        live: Meadows Festival 2017
     'Sick Love':
         id: UxqQTfQ5SlU
-        live: 'Meadows Festival 2017'
+        live: Meadows Festival 2017
     'Go Robot':
-        id: '-7eBFbLDz3g'
-        live: 'Meadows Festival 2017'
+        id: -7eBFbLDz3g
+        live: Meadows Festival 2017
     'Feasting on the Flowers':
-        id: '-3CIabuzIM8'
-        live: 'Paris 2016'
-    Detroit:
+        id: -3CIabuzIM8
+        live: Paris 2016
+    'Detroit':
         id: 2JeJDklwEuc
-        live: 'T in the Park 2016'
+        live: T in the Park 2016
     'This Ticonderoga':
         id: HEjkDumKeU4
-        live: 'Madrid 2016'
-    Encore:
+        live: Madrid 2016
+    'Encore':
         id: GFfzBFog_uQ
-        live: 'Mexico City 2017'
+        live: Mexico City 2017
     'The Hunter':
         id: s2TO6-zct04
     'Dreams of a Samurai':
         id: 3c2lXO_-J7I
-        live: 'Hannover 2016'
-    Kaly:
+        live: Hannover 2016
+    'Kaly':
         id: djgSAtV-13M
-        source: 'unreleased B-side'
+        source: unreleased B-side
     'Outer Space':
         id: UvYiEj47Gwo
-        source: 'unreleased B-side'
+        source: unreleased B-side
 'Unlimited Love':
     'Black Summer':
         id: OS8taasZl8k
     'Here Ever After':
         id: UoVWAd7qIWI
-        live: 'New York 2022'
+        live: New York 2022
     'Aquatic Mouth Dance':
         id: XmeWeopbGFI
-        live: 'Minneapolis 2023'
+        live: Minneapolis 2023
     'Not The One':
         id: 5EuWBWxHs18
     'Poster Child':
@@ -912,7 +912,7 @@ Californication:
         id: E5HLF92vf9U
     'These Are the Ways':
         id: ouuFLTz499c
-        live: 'New York 2022'
+        live: New York 2022
     "Whatchu Thinkin'":
         id: 4jW2sIGimqU
     'Bastards of Light':
@@ -921,18 +921,18 @@ Californication:
         id: g81F_2UfXzQ
     'One Way Traffic':
         id: zXNy-Osk1ek
-    Veronica:
+    'Veronica':
         id: t1TG63eDcfY
     "Let 'Em Cry":
         id: mtswRrd-V_U
     'The Heavy Wing':
         id: iV_zvLTNMaM
-        live: 'New York 2022'
-    Tangelo:
+        live: New York 2022
+    'Tangelo':
         id: ZL1pd0ebh_E
     'Nerve Flip':
         id: WJJhpy6JlLc
-        source: 'Japanese edition'
+        source: Japanese edition
 'Return of the Dream Canteen':
     'Tippa My Tongue':
         id: E1FNkf3MLKY
@@ -940,22 +940,22 @@ Californication:
         id: jtOrOECJxHY
     'Reach Out':
         id: xQ4_XzpKcgM
-    Eddie:
+    'Eddie':
         id: afrGrMJvGTc
-        live: 'Austin 2022'
+        live: Austin 2022
     'Fake as Fu@k':
         id: OIxRRR3gS_E
-    Bella:
+    'Bella':
         id: 3f4ywoRXqOg
-    Roulette:
+    'Roulette':
         id: VZc6GDuw0p4
     'My Cigarette':
         id: O2MTiMwghM8
-    Afterlife:
+    'Afterlife':
         id: Yxdigd6z7_Y
     'Shoot Me a Smile':
         id: ePdKx8ed8SY
-    Handful:
+    'Handful':
         id: XGc5XmOY1Fo
     'The Drummer':
         id: aP-oFkZknS4
@@ -963,7 +963,7 @@ Californication:
         id: QyUx2sj3hfM
     'La La La La La La La La':
         id: dsHTzbmZfL8
-    Copperbelly:
+    'Copperbelly':
         id: 8lwkz1PFipU
     'Carry Me Home':
         id: UT_ufzSGcO0
