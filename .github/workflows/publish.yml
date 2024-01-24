@@ -1,0 +1,24 @@
+on:
+  push:
+    branches: ['main']
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: echo '{"markdown-to-html":{"document":{"title":"Red Hot Chili Peppers"}}}' > .markdown-to-html-cli.config.json
+      - uses: jaywcjlove/markdown-to-html-cli@main
+        with:
+          config: .markdown-to-html-cli.config.json
+          dark-mode: false
+          favicon: https://avatars.githubusercontent.com/u/151223147
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - uses: actions/deploy-pages@v4
