@@ -1,7 +1,5 @@
 # Red Hot Chili Peppers
 
-:exclamation: Incorrect songs: "Aquatic Mouth Dance" :exclamation:
-
 ### [The Red Hot Chili Peppers](https://www.youtube.com/watch_videos?title=The%20Red%20Hot%20Chili%20Peppers&video_ids=V83kHRA1_bs,Uz2lXK5rS5k,607zeHM11pM,-JAM-UDQT5M,2Cory44jWqU,o8YbEFnygZA,GpKLFJtqowE,EZmWQwX5Fv4,KbPKw4cLO5Q,t8HyxBQnd1Q,i_XFb9esiWA,2wcSUCaoBQM,Qfe-8BbfbFI,Ev64bPz7gc8)
 1. :fire: "[True Men Don't Kill Coyotes](https://www.youtube.com/watch?v=V83kHRA1_bs)" (live from Rockpalast 1985)
 1. :fire: "[Baby Appeal](https://www.youtube.com/watch?v=Uz2lXK5rS5k)" (live from Rockpalast 1985)
@@ -310,10 +308,10 @@
 1. :cd: "[Kaly](https://www.youtube.com/watch?v=djgSAtV-13M)" (from unreleased B-side)
 1. :cd: "[Outer Space](https://www.youtube.com/watch?v=UvYiEj47Gwo)" (from unreleased B-side)
 
-### [Unlimited Love](https://www.youtube.com/watch_videos?title=Unlimited%20Love&video_ids=OS8taasZl8k,UoVWAd7qIWI,XmeWeopbGFI,5EuWBWxHs18,lxHWfCzS5uQ,ElI-G3QY3J0,ArYw6-6qKwM,E5HLF92vf9U,ouuFLTz499c,4jW2sIGimqU,IrtyWkRU2TM,g81F_2UfXzQ,zXNy-Osk1ek,t1TG63eDcfY,mtswRrd-V_U,iV_zvLTNMaM,ZL1pd0ebh_E,WJJhpy6JlLc)
+### [Unlimited Love](https://www.youtube.com/watch_videos?title=Unlimited%20Love&video_ids=OS8taasZl8k,UoVWAd7qIWI,MIABpVRDb-I,5EuWBWxHs18,lxHWfCzS5uQ,ElI-G3QY3J0,ArYw6-6qKwM,E5HLF92vf9U,ouuFLTz499c,4jW2sIGimqU,IrtyWkRU2TM,g81F_2UfXzQ,zXNy-Osk1ek,t1TG63eDcfY,mtswRrd-V_U,iV_zvLTNMaM,ZL1pd0ebh_E,WJJhpy6JlLc)
 1. :cd: "[Black Summer](https://www.youtube.com/watch?v=OS8taasZl8k)"
 1. :fire: "[Here Ever After](https://www.youtube.com/watch?v=UoVWAd7qIWI)" (live from New York 2022)
-1. :fire: "[Aquatic Mouth Dance](https://www.youtube.com/watch?v=XmeWeopbGFI)" (live from Minneapolis 2023)
+1. :cd: "[Aquatic Mouth Dance](https://www.youtube.com/watch?v=MIABpVRDb-I)"
 1. :cd: "[Not The One](https://www.youtube.com/watch?v=5EuWBWxHs18)"
 1. :cd: "[Poster Child](https://www.youtube.com/watch?v=lxHWfCzS5uQ)"
 1. :cd: "[The Great Apes](https://www.youtube.com/watch?v=ElI-G3QY3J0)"
