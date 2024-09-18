@@ -1,7 +1,5 @@
 # Red Hot Chili Peppers
 
-:exclamation: Incorrect songs: "Eddie", "Sikamikanico" :exclamation:
-
 ### [The Red Hot Chili Peppers](https://www.youtube.com/watch_videos?title=The%20Red%20Hot%20Chili%20Peppers&video_ids=V83kHRA1_bs,Uz2lXK5rS5k,607zeHM11pM,-JAM-UDQT5M,2Cory44jWqU,o8YbEFnygZA,GpKLFJtqowE,EZmWQwX5Fv4,KbPKw4cLO5Q,t8HyxBQnd1Q,i_XFb9esiWA,2wcSUCaoBQM,Qfe-8BbfbFI,Ev64bPz7gc8)
 1. :fire: "[True Men Don't Kill Coyotes](https://www.youtube.com/watch?v=V83kHRA1_bs)" (live from Rockpalast 1985)
 1. :fire: "[Baby Appeal](https://www.youtube.com/watch?v=Uz2lXK5rS5k)" (live from Rockpalast 1985)
@@ -79,7 +77,7 @@
 1. :fire: "[Tiny Dancer](https://www.youtube.com/watch?v=ybkOJ4EbswM)" (live from Landgraaf 1990, Elton John cover, from "Under the Covers: Essential Red Hot Chili Peppers" compilation album)
 1. :fire: "[Dr. Funkenstein](https://www.youtube.com/watch?v=31Iic15bkp4)" (live from Lakewood 1989, Parliament cover, from "Under the Covers: Essential Red Hot Chili Peppers" compilation album)
 
-### [Blood Sugar Sex Magik](https://www.youtube.com/watch_videos?title=Blood%20Sugar%20Sex%20Magik&video_ids=V2bh1feOjZk,SCoUGJRyQEs,_ry2oTLKcPA,f3hWXE5zJBk,xNNVyGonlKU,50YPE51CU4A,RRQwn8rmZfo,0aJfQdui66E,c26fQhpxdtk,q3cQ9_i3OEk,uDn7jfzvcv4,jYJh0AGud-k,_AAixJwhy2M,nUj11BOA32g,EZ_5J431YIo,zFxpdFt3JAs,ZDFAsb6SNSw,qxTYoM3CQHk,TAetm2h39v8,B0QHErlSm-4,P-dS7ZPLRY4,B3GTTOWGn_E,5PIuTXqFrMg,_QGtlOdnbBk)
+### [Blood Sugar Sex Magik](https://www.youtube.com/watch_videos?title=Blood%20Sugar%20Sex%20Magik&video_ids=V2bh1feOjZk,SCoUGJRyQEs,_ry2oTLKcPA,f3hWXE5zJBk,xNNVyGonlKU,50YPE51CU4A,RRQwn8rmZfo,0aJfQdui66E,c26fQhpxdtk,q3cQ9_i3OEk,uDn7jfzvcv4,jYJh0AGud-k,_AAixJwhy2M,nUj11BOA32g,EZ_5J431YIo,zFxpdFt3JAs,ZDFAsb6SNSw,qxTYoM3CQHk,TAetm2h39v8,B0QHErlSm-4,QAMXlIPmgsQ,B3GTTOWGn_E,5PIuTXqFrMg,_QGtlOdnbBk)
 1. :fire: "[The Power of Equality](https://www.youtube.com/watch?v=V2bh1feOjZk)" (live from Slane 2003)
 1. :fire: "[If You Have to Ask](https://www.youtube.com/watch?v=SCoUGJRyQEs)" (live from Sydney 2000)
 1. :fire: "[Breaking the Girl](https://www.youtube.com/watch?v=_ry2oTLKcPA)" (live from New York 2003)
@@ -100,7 +98,7 @@
 1. :cd: "[Little Miss Lover](https://www.youtube.com/watch?v=qxTYoM3CQHk)" (from deluxe edition)
 1. :fire: "[Search and Destroy](https://www.youtube.com/watch?v=TAetm2h39v8)" (live from Paris 2002, The Stooges cover, from B-side of "Give It Away")
 1. :fire: "[Soul to Squeeze](https://www.youtube.com/watch?v=B0QHErlSm-4)" (live from Chorzów 2007, from B-side of "Give It Away")
-1. :fire: "[Sikamikanico](https://www.youtube.com/watch?v=P-dS7ZPLRY4)" (live from Rock in Rio 2019, from B-side of "Under the Bridge")
+1. :fire: "[Sikamikanico](https://www.youtube.com/watch?v=QAMXlIPmgsQ)" (live from Rock in Rio 2019, from B-side of "Under the Bridge")
 1. :cd: "[Fela's Cock](https://www.youtube.com/watch?v=B3GTTOWGn_E)" (from B-side of "Breaking the Girl")
 1. :cd: "[Deck the Halls](https://www.youtube.com/watch?v=5PIuTXqFrMg)" (Christmas carol cover, from "Out in L.A." compilation album)
 1. :fire: "[Bullet Proof](https://www.youtube.com/watch?v=_QGtlOdnbBk)" (live from Del Mar 1991, George Clinton cover)
@@ -330,11 +328,11 @@
 1. :cd: "[Tangelo](https://www.youtube.com/watch?v=ZL1pd0ebh_E)"
 1. :cd: "[Nerve Flip](https://www.youtube.com/watch?v=WJJhpy6JlLc)" (from Japanese edition)
 
-### [Return of the Dream Canteen](https://www.youtube.com/watch_videos?title=Return%20of%20the%20Dream%20Canteen&video_ids=E1FNkf3MLKY,jtOrOECJxHY,xQ4_XzpKcgM,afrGrMJvGTc,OIxRRR3gS_E,3f4ywoRXqOg,VZc6GDuw0p4,O2MTiMwghM8,Yxdigd6z7_Y,ePdKx8ed8SY,XGc5XmOY1Fo,aP-oFkZknS4,QyUx2sj3hfM,dsHTzbmZfL8,8lwkz1PFipU,UT_ufzSGcO0,oG5XXId9uGE,Lqf406eSorw)
+### [Return of the Dream Canteen](https://www.youtube.com/watch_videos?title=Return%20of%20the%20Dream%20Canteen&video_ids=E1FNkf3MLKY,jtOrOECJxHY,xQ4_XzpKcgM,tG72YeWSWjw,OIxRRR3gS_E,3f4ywoRXqOg,VZc6GDuw0p4,O2MTiMwghM8,Yxdigd6z7_Y,ePdKx8ed8SY,XGc5XmOY1Fo,aP-oFkZknS4,QyUx2sj3hfM,dsHTzbmZfL8,8lwkz1PFipU,UT_ufzSGcO0,oG5XXId9uGE,Lqf406eSorw)
 1. :cd: "[Tippa My Tongue](https://www.youtube.com/watch?v=E1FNkf3MLKY)"
 1. :cd: "[Peace and Love](https://www.youtube.com/watch?v=jtOrOECJxHY)"
 1. :cd: "[Reach Out](https://www.youtube.com/watch?v=xQ4_XzpKcgM)"
-1. :fire: "[Eddie](https://www.youtube.com/watch?v=afrGrMJvGTc)" (live from Austin 2022)
+1. :fire: "[Eddie](https://www.youtube.com/watch?v=tG72YeWSWjw)" (live from Tokyo 2023)
 1. :cd: "[Fake as Fu@k](https://www.youtube.com/watch?v=OIxRRR3gS_E)"
 1. :cd: "[Bella](https://www.youtube.com/watch?v=3f4ywoRXqOg)"
 1. :cd: "[Roulette](https://www.youtube.com/watch?v=VZc6GDuw0p4)"
