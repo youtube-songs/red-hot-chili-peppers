@@ -1,7 +1,5 @@
 # Red Hot Chili Peppers
 
-:exclamation: Incorrect songs: "Behind the Sun", "Grand Pappy Du Plenty", "Save the Population", "Show Me Your Soul", "Storm in a Teacup", "Stranded", "The Greeting Song", "The Hunter", "Walkin' on Down the Road" :exclamation:
-
 ### [The Red Hot Chili Peppers](https://www.youtube.com/watch_videos?title=The%20Red%20Hot%20Chili%20Peppers&video_ids=V83kHRA1_bs,Uz2lXK5rS5k,607zeHM11pM,-JAM-UDQT5M,2Cory44jWqU,o8YbEFnygZA,GpKLFJtqowE,EZmWQwX5Fv4,KbPKw4cLO5Q,t8HyxBQnd1Q,i_XFb9esiWA,2wcSUCaoBQM,Qfe-8BbfbFI,Ev64bPz7gc8)
 1. :fire: "[True Men Don't Kill Coyotes](https://www.youtube.com/watch?v=V83kHRA1_bs)" (live from Rockpalast 1985)
 1. :fire: "[Baby Appeal](https://www.youtube.com/watch?v=Uz2lXK5rS5k)" (live from Rockpalast 1985)
@@ -330,7 +328,7 @@
 1. :cd: "[Tangelo](https://www.youtube.com/watch?v=ZL1pd0ebh_E)"
 1. :cd: "[Nerve Flip](https://www.youtube.com/watch?v=WJJhpy6JlLc)" (from Japanese edition)
 
-### [Return of the Dream Canteen (trigger CI)](https://www.youtube.com/watch_videos?title=Return%20of%20the%20Dream%20Canteen&video_ids=E1FNkf3MLKY,jtOrOECJxHY,xQ4_XzpKcgM,tG72YeWSWjw,OIxRRR3gS_E,3f4ywoRXqOg,VZc6GDuw0p4,O2MTiMwghM8,Yxdigd6z7_Y,ePdKx8ed8SY,XGc5XmOY1Fo,aP-oFkZknS4,QyUx2sj3hfM,dsHTzbmZfL8,8lwkz1PFipU,UT_ufzSGcO0,oG5XXId9uGE,Lqf406eSorw)
+### [Return of the Dream Canteen](https://www.youtube.com/watch_videos?title=Return%20of%20the%20Dream%20Canteen&video_ids=E1FNkf3MLKY,jtOrOECJxHY,xQ4_XzpKcgM,tG72YeWSWjw,OIxRRR3gS_E,3f4ywoRXqOg,VZc6GDuw0p4,O2MTiMwghM8,Yxdigd6z7_Y,ePdKx8ed8SY,XGc5XmOY1Fo,aP-oFkZknS4,QyUx2sj3hfM,dsHTzbmZfL8,8lwkz1PFipU,UT_ufzSGcO0,oG5XXId9uGE,Lqf406eSorw)
 1. :cd: "[Tippa My Tongue](https://www.youtube.com/watch?v=E1FNkf3MLKY)"
 1. :cd: "[Peace and Love](https://www.youtube.com/watch?v=jtOrOECJxHY)"
 1. :cd: "[Reach Out](https://www.youtube.com/watch?v=xQ4_XzpKcgM)"
