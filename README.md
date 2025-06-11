@@ -1,5 +1,7 @@
 # Red Hot Chili Peppers
 
+:exclamation: Incorrect songs: "Behind the Sun", "Grand Pappy Du Plenty", "Save the Population", "Show Me Your Soul", "Storm in a Teacup", "Stranded", "The Greeting Song", "The Hunter", "Walkin' on Down the Road" :exclamation:
+
 ### [The Red Hot Chili Peppers](https://www.youtube.com/watch_videos?title=The%20Red%20Hot%20Chili%20Peppers&video_ids=V83kHRA1_bs,Uz2lXK5rS5k,607zeHM11pM,-JAM-UDQT5M,2Cory44jWqU,o8YbEFnygZA,GpKLFJtqowE,EZmWQwX5Fv4,KbPKw4cLO5Q,t8HyxBQnd1Q,i_XFb9esiWA,2wcSUCaoBQM,Qfe-8BbfbFI,Ev64bPz7gc8)
 1. :fire: "[True Men Don't Kill Coyotes](https://www.youtube.com/watch?v=V83kHRA1_bs)" (live from Rockpalast 1985)
 1. :fire: "[Baby Appeal](https://www.youtube.com/watch?v=Uz2lXK5rS5k)" (live from Rockpalast 1985)
