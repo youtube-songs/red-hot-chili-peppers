@@ -1,7 +1,5 @@
 # Red Hot Chili Peppers
 
-:exclamation: Incorrect songs: "I Could Have Lied", "The Zephyr Song" :exclamation:
-
 ### [The Red Hot Chili Peppers](https://www.youtube.com/watch_videos?title=The%20Red%20Hot%20Chili%20Peppers&video_ids=V83kHRA1_bs,Uz2lXK5rS5k,607zeHM11pM,-JAM-UDQT5M,2Cory44jWqU,o8YbEFnygZA,GpKLFJtqowE,EZmWQwX5Fv4,KbPKw4cLO5Q,t8HyxBQnd1Q,i_XFb9esiWA,2wcSUCaoBQM,Qfe-8BbfbFI,Ev64bPz7gc8)
 1. :fire: "[True Men Don't Kill Coyotes](https://www.youtube.com/watch?v=V83kHRA1_bs)" (live from Rockpalast 1985)
 1. :fire: "[Baby Appeal](https://www.youtube.com/watch?v=Uz2lXK5rS5k)" (live from Rockpalast 1985)
@@ -79,13 +77,13 @@
 1. :fire: "[Tiny Dancer](https://www.youtube.com/watch?v=ybkOJ4EbswM)" (live from Landgraaf 1990, Elton John cover, from "Under the Covers: Essential Red Hot Chili Peppers" compilation album)
 1. :fire: "[Dr. Funkenstein](https://www.youtube.com/watch?v=31Iic15bkp4)" (live from Lakewood 1989, Parliament cover, from "Under the Covers: Essential Red Hot Chili Peppers" compilation album)
 
-### [Blood Sugar Sex Magik](https://www.youtube.com/watch_videos?title=Blood%20Sugar%20Sex%20Magik&video_ids=V2bh1feOjZk,SCoUGJRyQEs,_ry2oTLKcPA,f3hWXE5zJBk,xNNVyGonlKU,50YPE51CU4A,RRQwn8rmZfo,0aJfQdui66E,c26fQhpxdtk,q3cQ9_i3OEk,uDn7jfzvcv4,jYJh0AGud-k,_AAixJwhy2M,nUj11BOA32g,EZ_5J431YIo,zFxpdFt3JAs,ZDFAsb6SNSw,qxTYoM3CQHk,TAetm2h39v8,B0QHErlSm-4,QAMXlIPmgsQ,B3GTTOWGn_E,5PIuTXqFrMg,_QGtlOdnbBk)
+### [Blood Sugar Sex Magik](https://www.youtube.com/watch_videos?title=Blood%20Sugar%20Sex%20Magik&video_ids=V2bh1feOjZk,SCoUGJRyQEs,_ry2oTLKcPA,f3hWXE5zJBk,xNNVyGonlKU,Jn6Yd_xilHE,RRQwn8rmZfo,0aJfQdui66E,c26fQhpxdtk,q3cQ9_i3OEk,uDn7jfzvcv4,jYJh0AGud-k,_AAixJwhy2M,nUj11BOA32g,EZ_5J431YIo,zFxpdFt3JAs,ZDFAsb6SNSw,qxTYoM3CQHk,TAetm2h39v8,B0QHErlSm-4,QAMXlIPmgsQ,B3GTTOWGn_E,5PIuTXqFrMg,_QGtlOdnbBk)
 1. :fire: "[The Power of Equality](https://www.youtube.com/watch?v=V2bh1feOjZk)" (live from Slane 2003)
 1. :fire: "[If You Have to Ask](https://www.youtube.com/watch?v=SCoUGJRyQEs)" (live from Sydney 2000)
 1. :fire: "[Breaking the Girl](https://www.youtube.com/watch?v=_ry2oTLKcPA)" (live from New York 2003)
 1. :fire: "[Funky Monks](https://www.youtube.com/watch?v=f3hWXE5zJBk)" (live from Denver 2006)
 1. :fire: "[Suck My Kiss](https://www.youtube.com/watch?v=xNNVyGonlKU)" (live from Off the Map 2000)
-1. :fire: "[I Could Have Lied](https://www.youtube.com/watch?v=50YPE51CU4A)" (live from Off the Map 2000)
+1. :fire: "[I Could Have Lied](https://www.youtube.com/watch?v=Jn6Yd_xilHE)" (live from Tokyo 2000)
 1. :cd: "[Mellowship Slinky in B Major](https://www.youtube.com/watch?v=RRQwn8rmZfo)"
 1. :cd: "[The Righteous & the Wicked](https://www.youtube.com/watch?v=0aJfQdui66E)"
 1. :fire: "[Give It Away](https://www.youtube.com/watch?v=c26fQhpxdtk)" (live from Milano 2006)
@@ -163,13 +161,13 @@
 1. :cd: "[Boatman](https://www.youtube.com/watch?v=BY7TUfJSrpY)" (from Teatro Sessions)
 1. :cd: "[Plate Of Brown](https://www.youtube.com/watch?v=fkWqjouMdSs)" (from Teatro Sessions)
 
-### [By The Way](https://www.youtube.com/watch_videos?title=By%20The%20Way&video_ids=Gtmnt-Ol1UY,wU1HbwC71j4,4evjn1-QAjQ,uhKZ8VJFZy4,gG7YDCJ8Ad8,DqAiJE6zGEg,Cc3sC63sTFg,ky18niAuxes,4QhFuJWqTAc,hB-WHw6uMWg,zazQKZ6D8UE,9OzjUuB3WHo,X4ahMG3Iu8w,qB1kYCTh3x8,OnbOL1Z3Gt8,ljrgs4TzkTQ,0LPL8F01lqs,KxmEnbRzxQw,C2Xb7a400Dc,PuVdwAiMak0,3xwv6EJxC0I,M6RMq-WiCJE,iYYNfpO2GrA,kldWAZPU8TA,vWqN-3ecc64,AATqzT7mzuQ,o0yzcb59IIs,b46SkuckKsY,FYKeZibTWNk,7BYu3Ed9YMc,hOIjWgw6CwM,3cAht9TdqVI,9ZAPwlntLt8,pBo55gu8b1Q,JVvHzXZk25c,tSjw2LMtl9U,hYzRu776p-k,TxscvwCVEwQ,JAFi9V6czdE,1944QWi01Ow,6_m53hrW3uc,IJ_xlBelD4Y,bQYq_NEsPVY,81rPFh_gP3Y,JINUbu1pSeg,Om40S1Yu-Lw,agOPYVuJZIU,Hz6ibuY_Ezw,dRcXnH_Rshg,T9yxwWM62Nk)
+### [By The Way](https://www.youtube.com/watch_videos?title=By%20The%20Way&video_ids=Gtmnt-Ol1UY,wU1HbwC71j4,4evjn1-QAjQ,uhKZ8VJFZy4,gG7YDCJ8Ad8,ZVJ-tnBRnnY,Cc3sC63sTFg,ky18niAuxes,4QhFuJWqTAc,hB-WHw6uMWg,zazQKZ6D8UE,9OzjUuB3WHo,X4ahMG3Iu8w,qB1kYCTh3x8,OnbOL1Z3Gt8,ljrgs4TzkTQ,0LPL8F01lqs,KxmEnbRzxQw,C2Xb7a400Dc,PuVdwAiMak0,3xwv6EJxC0I,M6RMq-WiCJE,iYYNfpO2GrA,kldWAZPU8TA,vWqN-3ecc64,AATqzT7mzuQ,o0yzcb59IIs,b46SkuckKsY,FYKeZibTWNk,7BYu3Ed9YMc,hOIjWgw6CwM,3cAht9TdqVI,9ZAPwlntLt8,pBo55gu8b1Q,JVvHzXZk25c,tSjw2LMtl9U,hYzRu776p-k,TxscvwCVEwQ,JAFi9V6czdE,1944QWi01Ow,6_m53hrW3uc,IJ_xlBelD4Y,bQYq_NEsPVY,81rPFh_gP3Y,JINUbu1pSeg,Om40S1Yu-Lw,agOPYVuJZIU,Hz6ibuY_Ezw,dRcXnH_Rshg,T9yxwWM62Nk)
 1. :fire: "[By the Way](https://www.youtube.com/watch?v=Gtmnt-Ol1UY)" (live from Slane 2003)
 1. :fire: "[Universally Speaking](https://www.youtube.com/watch?v=wU1HbwC71j4)" (live from Slane 2003)
 1. :fire: "[This Is the Place](https://www.youtube.com/watch?v=4evjn1-QAjQ)" (live from Montreal 2003)
 1. :fire: "[Dosed](https://www.youtube.com/watch?v=uhKZ8VJFZy4)" (live from Glendale 2017)
 1. :fire: "[Don't Forget Me](https://www.youtube.com/watch?v=gG7YDCJ8Ad8)" (live from Paris 2006)
-1. :fire: "[The Zephyr Song](https://www.youtube.com/watch?v=DqAiJE6zGEg)" (live from Slane 2003)
+1. :fire: "[The Zephyr Song](https://www.youtube.com/watch?v=ZVJ-tnBRnnY)" (live from Slane 2003)
 1. :fire: "[Can't Stop](https://www.youtube.com/watch?v=Cc3sC63sTFg)" (live from Slane 2003)
 1. :fire: "[I Could Die for You](https://www.youtube.com/watch?v=ky18niAuxes)" (live from Madrid 2002)
 1. :cd: "[Midnight](https://www.youtube.com/watch?v=4QhFuJWqTAc)"
