@@ -16,7 +16,7 @@ jobs:
       commit_hash: ${{ steps.update_readme.outputs.commit_hash }}
     steps:
       - uses: actions/checkout@v4
-      - uses: kubawerlos/youtube-songs@v1
+      - uses: kubawerlos/youtube-songs@v2
         env:
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
       - uses: stefanzweifel/git-auto-commit-action@v5
