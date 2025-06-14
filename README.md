@@ -1,6 +1,6 @@
 # Red Hot Chili Peppers
 
-:exclamation: Incorrect songs: "Parallel Universe", "The Adventures of Rain Dance Maggie", "Under the Bridge" :exclamation:
+:exclamation: Incorrect songs: "The Adventures of Rain Dance Maggie" :exclamation:
 
 ### [The Red Hot Chili Peppers](https://www.youtube.com/watch_videos?title=The%20Red%20Hot%20Chili%20Peppers&video_ids=V83kHRA1_bs,Uz2lXK5rS5k,607zeHM11pM,-JAM-UDQT5M,2Cory44jWqU,o8YbEFnygZA,GpKLFJtqowE,EZmWQwX5Fv4,KbPKw4cLO5Q,t8HyxBQnd1Q,i_XFb9esiWA,2wcSUCaoBQM,Qfe-8BbfbFI,Ev64bPz7gc8)
 1. :fire: "[True Men Don't Kill Coyotes](https://www.youtube.com/watch?v=V83kHRA1_bs)" (live from Rockpalast 1985)
@@ -79,7 +79,7 @@
 1. :fire: "[Tiny Dancer](https://www.youtube.com/watch?v=ybkOJ4EbswM)" (live from Landgraaf 1990, Elton John cover, from "Under the Covers: Essential Red Hot Chili Peppers" compilation album)
 1. :fire: "[Dr. Funkenstein](https://www.youtube.com/watch?v=31Iic15bkp4)" (live from Lakewood 1989, Parliament cover, from "Under the Covers: Essential Red Hot Chili Peppers" compilation album)
 
-### [Blood Sugar Sex Magik](https://www.youtube.com/watch_videos?title=Blood%20Sugar%20Sex%20Magik&video_ids=V2bh1feOjZk,SCoUGJRyQEs,_ry2oTLKcPA,f3hWXE5zJBk,xNNVyGonlKU,Jn6Yd_xilHE,RRQwn8rmZfo,0aJfQdui66E,c26fQhpxdtk,q3cQ9_i3OEk,uDn7jfzvcv4,jYJh0AGud-k,_AAixJwhy2M,nUj11BOA32g,EZ_5J431YIo,zFxpdFt3JAs,ZDFAsb6SNSw,qxTYoM3CQHk,TAetm2h39v8,B0QHErlSm-4,QAMXlIPmgsQ,B3GTTOWGn_E,5PIuTXqFrMg,_QGtlOdnbBk)
+### [Blood Sugar Sex Magik](https://www.youtube.com/watch_videos?title=Blood%20Sugar%20Sex%20Magik&video_ids=V2bh1feOjZk,SCoUGJRyQEs,_ry2oTLKcPA,f3hWXE5zJBk,xNNVyGonlKU,Jn6Yd_xilHE,RRQwn8rmZfo,0aJfQdui66E,c26fQhpxdtk,q3cQ9_i3OEk,tQOI8AojEys,jYJh0AGud-k,_AAixJwhy2M,nUj11BOA32g,EZ_5J431YIo,zFxpdFt3JAs,ZDFAsb6SNSw,qxTYoM3CQHk,TAetm2h39v8,B0QHErlSm-4,QAMXlIPmgsQ,B3GTTOWGn_E,5PIuTXqFrMg,K27aRR4HlM0)
 1. :fire: "[The Power of Equality](https://www.youtube.com/watch?v=V2bh1feOjZk)" (live from Slane 2003)
 1. :fire: "[If You Have to Ask](https://www.youtube.com/watch?v=SCoUGJRyQEs)" (live from Sydney 2000)
 1. :fire: "[Breaking the Girl](https://www.youtube.com/watch?v=_ry2oTLKcPA)" (live from New York 2003)
@@ -90,7 +90,7 @@
 1. :cd: "[The Righteous & the Wicked](https://www.youtube.com/watch?v=0aJfQdui66E)"
 1. :fire: "[Give It Away](https://www.youtube.com/watch?v=c26fQhpxdtk)" (live from Milano 2006)
 1. :fire: "[Blood Sugar Sex Magik](https://www.youtube.com/watch?v=q3cQ9_i3OEk)" (live from Woodstock 1994)
-1. :fire: "[Under the Bridge](https://www.youtube.com/watch?v=uDn7jfzvcv4)" (live from Slane 2003)
+1. :fire: "[Under the Bridge](https://www.youtube.com/watch?v=tQOI8AojEys)" (live from Slane 2003)
 1. :fire: "[Naked in the Rain](https://www.youtube.com/watch?v=jYJh0AGud-k)" (live from Civic Center 1990)
 1. :cd: "[Apache Rose Peacock](https://www.youtube.com/watch?v=_AAixJwhy2M)"
 1. :cd: "[The Greeting Song](https://www.youtube.com/watch?v=nUj11BOA32g)"
@@ -103,7 +103,7 @@
 1. :fire: "[Sikamikanico](https://www.youtube.com/watch?v=QAMXlIPmgsQ)" (live from Rock in Rio 2019, from B-side of "Under the Bridge")
 1. :cd: "[Fela's Cock](https://www.youtube.com/watch?v=B3GTTOWGn_E)" (from B-side of "Breaking the Girl")
 1. :cd: "[Deck the Halls](https://www.youtube.com/watch?v=5PIuTXqFrMg)" (Christmas carol cover, from "Out in L.A." compilation album)
-1. :fire: "[Bullet Proof](https://www.youtube.com/watch?v=_QGtlOdnbBk)" (live from Del Mar 1991, George Clinton cover)
+1. :fire: "[Bullet Proof](https://www.youtube.com/watch?v=K27aRR4HlM0)" (live from Del Mar 1991, George Clinton cover)
 
 ### [One Hot Minute](https://www.youtube.com/watch_videos?title=One%20Hot%20Minute&video_ids=xmyuJZH3RAc,0dE4pHUgqU0,kj4o-sbKYe4,0kT5w27YxyI,WkkKStRwokQ,BXJjBo_u3WM,AF4UaL08beU,SW4yvVhB1PE,CZbG9V5EyIM,T6Ii7D4rYrg,5531o-YeGtk,BwT8zKrjiJw,oyZ_-O3YVEY,72T4Xce8-x0,56PWNtiIV3o,8kFavNl07SE,S0wtM8PdaBQ,cF3KXXMJOPQ,qfbI82qdOls,4n6D8lB0A9w,ePKYs6eCzC8)
 1. :cd: "[Warped](https://www.youtube.com/watch?v=xmyuJZH3RAc)"
@@ -128,9 +128,9 @@
 1. :cd: "[Love Rollercoaster](https://www.youtube.com/watch?v=4n6D8lB0A9w)" (Ohio Players cover, from "Beavis and Butt-Head Do America" soundtrack)
 1. :cd: "[Circle Of The Noose](https://www.youtube.com/watch?v=ePKYs6eCzC8)" (from the sessions to follow up album)
 
-### [Californication](https://www.youtube.com/watch_videos?title=Californication&video_ids=ZqMseqjqwTo,CkwV0TWRAok,eDN4GZkvd60,bFLs9mi6TK0,400TTymE4-I,vKX6AL1sLiI,GDWcHya_ASo,j0tHXHcq724,smVD9wVutrQ,jCN63r3kUMo,KQOFAhqGG9k,lt_toRKH4p4,Elsge3oYYYA,FaHKQBRFNHU,RoQ5d5e7uns,zzlxNsqKCwg,oj_w9EsAQzQ,sspiWqii5vw,g6TRzzfZjlU,zUTWSL_uSuE,vyfwf8Kmnw8,xCqZSX_ZvSc,ArQiPAzpx48,vg_ah1hjDcI,9-cFxN4odKg,9jDHLbjoqYM,ZJZn1ABUWRI,jF345qkBXF0,GjFXn3ZvlHc,9l4OW37FhCE,VXAgh_zkyGY,BY7TUfJSrpY,fkWqjouMdSs)
+### [Californication](https://www.youtube.com/watch_videos?title=Californication&video_ids=ZqMseqjqwTo,R3_CSDD0lFc,eDN4GZkvd60,bFLs9mi6TK0,400TTymE4-I,vKX6AL1sLiI,GDWcHya_ASo,j0tHXHcq724,smVD9wVutrQ,jCN63r3kUMo,KQOFAhqGG9k,lt_toRKH4p4,Elsge3oYYYA,FaHKQBRFNHU,RoQ5d5e7uns,zzlxNsqKCwg,oj_w9EsAQzQ,sspiWqii5vw,g6TRzzfZjlU,zUTWSL_uSuE,vyfwf8Kmnw8,xCqZSX_ZvSc,ArQiPAzpx48,vg_ah1hjDcI,9-cFxN4odKg,9jDHLbjoqYM,ZJZn1ABUWRI,jF345qkBXF0,GjFXn3ZvlHc,9l4OW37FhCE,VXAgh_zkyGY,BY7TUfJSrpY,fkWqjouMdSs)
 1. :fire: "[Around the World](https://www.youtube.com/watch?v=ZqMseqjqwTo)" (live from Slane 2003)
-1. :fire: "[Parallel Universe](https://www.youtube.com/watch?v=CkwV0TWRAok)" (live from Slane 2003)
+1. :fire: "[Parallel Universe](https://www.youtube.com/watch?v=R3_CSDD0lFc)" (live from Slane 2003)
 1. :fire: "[Scar Tissue](https://www.youtube.com/watch?v=eDN4GZkvd60)" (live from Paris 2006)
 1. :fire: "[Otherside](https://www.youtube.com/watch?v=bFLs9mi6TK0)" (live from Slane 2003)
 1. :fire: "[Get on Top](https://www.youtube.com/watch?v=400TTymE4-I)" (live from Nürburg 2004)
@@ -163,7 +163,7 @@
 1. :cd: "[Boatman](https://www.youtube.com/watch?v=BY7TUfJSrpY)" (from Teatro Sessions)
 1. :cd: "[Plate Of Brown](https://www.youtube.com/watch?v=fkWqjouMdSs)" (from Teatro Sessions)
 
-### [By The Way](https://www.youtube.com/watch_videos?title=By%20The%20Way&video_ids=Gtmnt-Ol1UY,wU1HbwC71j4,4evjn1-QAjQ,uhKZ8VJFZy4,gG7YDCJ8Ad8,ZVJ-tnBRnnY,Cc3sC63sTFg,ky18niAuxes,4QhFuJWqTAc,hB-WHw6uMWg,zazQKZ6D8UE,9OzjUuB3WHo,X4ahMG3Iu8w,qB1kYCTh3x8,OnbOL1Z3Gt8,ljrgs4TzkTQ,0LPL8F01lqs,KxmEnbRzxQw,C2Xb7a400Dc,PuVdwAiMak0,3xwv6EJxC0I,M6RMq-WiCJE,iYYNfpO2GrA,kldWAZPU8TA,vWqN-3ecc64,AATqzT7mzuQ,o0yzcb59IIs,b46SkuckKsY,FYKeZibTWNk,7BYu3Ed9YMc,hOIjWgw6CwM,3cAht9TdqVI,9ZAPwlntLt8,pBo55gu8b1Q,JVvHzXZk25c,tSjw2LMtl9U,hYzRu776p-k,TxscvwCVEwQ,JAFi9V6czdE,1944QWi01Ow,6_m53hrW3uc,IJ_xlBelD4Y,bQYq_NEsPVY,81rPFh_gP3Y,JINUbu1pSeg,Om40S1Yu-Lw,agOPYVuJZIU,Hz6ibuY_Ezw,dRcXnH_Rshg,T9yxwWM62Nk)
+### [By The Way](https://www.youtube.com/watch_videos?title=By%20The%20Way&video_ids=Gtmnt-Ol1UY,wU1HbwC71j4,4evjn1-QAjQ,uhKZ8VJFZy4,gG7YDCJ8Ad8,ZVJ-tnBRnnY,Cc3sC63sTFg,ky18niAuxes,4QhFuJWqTAc,Tyzq2sODokU,zazQKZ6D8UE,9OzjUuB3WHo,X4ahMG3Iu8w,qB1kYCTh3x8,OnbOL1Z3Gt8,ljrgs4TzkTQ,0LPL8F01lqs,KxmEnbRzxQw,C2Xb7a400Dc,PuVdwAiMak0,3xwv6EJxC0I,M6RMq-WiCJE,iYYNfpO2GrA,kldWAZPU8TA,vWqN-3ecc64,AATqzT7mzuQ,o0yzcb59IIs,b46SkuckKsY,FYKeZibTWNk,7BYu3Ed9YMc,hOIjWgw6CwM,3cAht9TdqVI,9ZAPwlntLt8,pBo55gu8b1Q,JVvHzXZk25c,tSjw2LMtl9U,hYzRu776p-k,TxscvwCVEwQ,JAFi9V6czdE,1944QWi01Ow,6_m53hrW3uc,IJ_xlBelD4Y,bQYq_NEsPVY,81rPFh_gP3Y,JINUbu1pSeg,Om40S1Yu-Lw,agOPYVuJZIU,Hz6ibuY_Ezw,dRcXnH_Rshg,T9yxwWM62Nk)
 1. :fire: "[By the Way](https://www.youtube.com/watch?v=Gtmnt-Ol1UY)" (live from Slane 2003)
 1. :fire: "[Universally Speaking](https://www.youtube.com/watch?v=wU1HbwC71j4)" (live from Slane 2003)
 1. :fire: "[This Is the Place](https://www.youtube.com/watch?v=4evjn1-QAjQ)" (live from Montreal 2003)
@@ -173,7 +173,7 @@
 1. :fire: "[Can't Stop](https://www.youtube.com/watch?v=Cc3sC63sTFg)" (live from Slane 2003)
 1. :fire: "[I Could Die for You](https://www.youtube.com/watch?v=ky18niAuxes)" (live from Madrid 2002)
 1. :cd: "[Midnight](https://www.youtube.com/watch?v=4QhFuJWqTAc)"
-1. :fire: "[Throw Away Your Television](https://www.youtube.com/watch?v=hB-WHw6uMWg)" (live from Slane 2003)
+1. :fire: "[Throw Away Your Television](https://www.youtube.com/watch?v=Tyzq2sODokU)" (live from Hyde Park 2004)
 1. :fire: "[Cabron](https://www.youtube.com/watch?v=zazQKZ6D8UE)" (live from London 2002)
 1. :cd: "[Tear](https://www.youtube.com/watch?v=9OzjUuB3WHo)"
 1. :cd: "[On Mercury](https://www.youtube.com/watch?v=X4ahMG3Iu8w)"
