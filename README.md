@@ -2,21 +2,18 @@
 
 :exclamation: Incorrect songs: "Sikamikanico" :exclamation:
 
-### [The Red Hot Chili Peppers](https://www.youtube.com/watch_videos?title=The%20Red%20Hot%20Chili%20Peppers&video_ids=V83kHRA1_bs,Uz2lXK5rS5k,607zeHM11pM,-JAM-UDQT5M,2Cory44jWqU,o8YbEFnygZA,GpKLFJtqowE,EZmWQwX5Fv4,KbPKw4cLO5Q,t8HyxBQnd1Q,i_XFb9esiWA,2wcSUCaoBQM,Qfe-8BbfbFI,Ev64bPz7gc8)
-1. :fire: "[True Men Don't Kill Coyotes](https://www.youtube.com/watch?v=V83kHRA1_bs)" (live from Rockpalast 1985)
+### [The Red Hot Chili Peppers](https://www.youtube.com/watch_videos?title=The%20Red%20Hot%20Chili%20Peppers&video_ids=j8rDtFvrKVI,Uz2lXK5rS5k,8w-3scXBQLk,-JAM-UDQT5M,M7vfnAhvKJ8,o8YbEFnygZA,AVd7w7YPbSc,EZmWQwX5Fv4,KbPKw4cLO5Q,t8HyxBQnd1Q,i_XFb9esiWA)
+1. :fire: "[True Men Don't Kill Coyotes](https://www.youtube.com/watch?v=j8rDtFvrKVI)" (live from Rockpalast 1985)
 1. :fire: "[Baby Appeal](https://www.youtube.com/watch?v=Uz2lXK5rS5k)" (live from Rockpalast 1985)
-1. :fire: "[Buckle Down](https://www.youtube.com/watch?v=607zeHM11pM)" (live from Rockpalast 1985)
+1. :fire: "[Buckle Down](https://www.youtube.com/watch?v=8w-3scXBQLk)" (live from Rockpalast 1985)
 1. :fire: "[Get Up and Jump](https://www.youtube.com/watch?v=-JAM-UDQT5M)" (live from Rockpalast 1985)
-1. :fire: "[Why Don't You Love Me](https://www.youtube.com/watch?v=2Cory44jWqU)" (live from The Patio 1985, Hank Williams cover)
+1. :cd: "[Why Don't You Love Me](https://www.youtube.com/watch?v=M7vfnAhvKJ8)" (Hank Williams cover)
 1. :fire: "[Green Heaven](https://www.youtube.com/watch?v=o8YbEFnygZA)" (live from Rockpalast 1985)
-1. :fire: "[Mommy Where's Daddy?](https://www.youtube.com/watch?v=GpKLFJtqowE)" (live from Pinkpop 1990)
+1. :fire: "[Mommy Where's Daddy?](https://www.youtube.com/watch?v=AVd7w7YPbSc)" (live from Provinssirock 1988)
 1. :fire: "[Out in L.A.](https://www.youtube.com/watch?v=EZmWQwX5Fv4)" (live from Rockpalast 1985)
-1. :fire: "[Police Helicopter](https://www.youtube.com/watch?v=KbPKw4cLO5Q)" (live from Provnissi Rock Festival 1988)
+1. :fire: "[Police Helicopter](https://www.youtube.com/watch?v=KbPKw4cLO5Q)" (live from Provinssirock 1988)
 1. :fire: "[You Always Sing the Same](https://www.youtube.com/watch?v=t8HyxBQnd1Q)" (live from Madrid 2002)
 1. :cd: "[Grand Pappy Du Plenty](https://www.youtube.com/watch?v=i_XFb9esiWA)"
-1. :cd: "[What It Is (AKA Nina's Song)](https://www.youtube.com/watch?v=2wcSUCaoBQM)" (from "Out in L.A." compilation album)
-1. :cd: "[Stranded](https://www.youtube.com/watch?v=Qfe-8BbfbFI)" (from "Out in L.A." compilation album)
-1. :cd: "[Flea Fly](https://www.youtube.com/watch?v=Ev64bPz7gc8)" (from "Out in L.A." compilation album)
 
 ### [Freaky Styley](https://www.youtube.com/watch_videos?title=Freaky%20Styley&video_ids=rMSfah6E2B8,lzfYfQvrvQU,s_cnVBoM23Y,jsXkP0HTf3w,Q550oxvlJSk,pZtuB8kamtY,4rofk1WsXOE,oJprMufFlXw,DL5mqGXB0b4,zfq_Rb8EM34,QJPZL2jDihU,3tCHURxNCcc,cN6CW4w9hpk,T1Y05mNxWks,NaM6zgqlGGY,Ex5xWtD0Sh4,_IfkD84Vh3A,tMSiKAnAIXI)
 1. :fire: "[Jungle Man](https://www.youtube.com/watch?v=rMSfah6E2B8)" (live from Germany 1985)
@@ -79,7 +76,7 @@
 1. :fire: "[Tiny Dancer](https://www.youtube.com/watch?v=ybkOJ4EbswM)" (live from Landgraaf 1990, Elton John cover, from "Under the Covers: Essential Red Hot Chili Peppers" compilation album)
 1. :fire: "[Dr. Funkenstein](https://www.youtube.com/watch?v=31Iic15bkp4)" (live from Lakewood 1989, Parliament cover, from "Under the Covers: Essential Red Hot Chili Peppers" compilation album)
 
-### [Blood Sugar Sex Magik](https://www.youtube.com/watch_videos?title=Blood%20Sugar%20Sex%20Magik&video_ids=V2bh1feOjZk,SCoUGJRyQEs,_ry2oTLKcPA,f3hWXE5zJBk,xNNVyGonlKU,Jn6Yd_xilHE,RRQwn8rmZfo,0aJfQdui66E,c26fQhpxdtk,q3cQ9_i3OEk,tQOI8AojEys,jYJh0AGud-k,_AAixJwhy2M,nUj11BOA32g,EZ_5J431YIo,zFxpdFt3JAs,ZDFAsb6SNSw,qxTYoM3CQHk,TAetm2h39v8,B0QHErlSm-4,QAMXlIPmgsQ,B3GTTOWGn_E,5PIuTXqFrMg,K27aRR4HlM0)
+### [Blood Sugar Sex Magik](https://www.youtube.com/watch_videos?title=Blood%20Sugar%20Sex%20Magik&video_ids=V2bh1feOjZk,SCoUGJRyQEs,_ry2oTLKcPA,f3hWXE5zJBk,xNNVyGonlKU,Jn6Yd_xilHE,RRQwn8rmZfo,0aJfQdui66E,c26fQhpxdtk,q3cQ9_i3OEk,tQOI8AojEys,jYJh0AGud-k,_AAixJwhy2M,nUj11BOA32g,EZ_5J431YIo,zFxpdFt3JAs,ZDFAsb6SNSw,qxTYoM3CQHk,TAetm2h39v8,B0QHErlSm-4,QAMXlIPmgsQ,B3GTTOWGn_E,Qfe-8BbfbFI,Ev64bPz7gc8,2wcSUCaoBQM,5PIuTXqFrMg,K27aRR4HlM0)
 1. :fire: "[The Power of Equality](https://www.youtube.com/watch?v=V2bh1feOjZk)" (live from Slane 2003)
 1. :fire: "[If You Have to Ask](https://www.youtube.com/watch?v=SCoUGJRyQEs)" (live from Sydney 2000)
 1. :fire: "[Breaking the Girl](https://www.youtube.com/watch?v=_ry2oTLKcPA)" (live from New York 2003)
@@ -102,6 +99,9 @@
 1. :fire: "[Soul to Squeeze](https://www.youtube.com/watch?v=B0QHErlSm-4)" (live from Chorzów 2007, from B-side of "Give It Away")
 1. :fire: "[Sikamikanico](https://www.youtube.com/watch?v=QAMXlIPmgsQ)" (live from Rock in Rio 2019, from B-side of "Under the Bridge")
 1. :cd: "[Fela's Cock](https://www.youtube.com/watch?v=B3GTTOWGn_E)" (from B-side of "Breaking the Girl")
+1. :cd: "[Stranded](https://www.youtube.com/watch?v=Qfe-8BbfbFI)" (from "Out in L.A." compilation album)
+1. :cd: "[Flea Fly](https://www.youtube.com/watch?v=Ev64bPz7gc8)" (from "Out in L.A." compilation album)
+1. :cd: "[What It Is](https://www.youtube.com/watch?v=2wcSUCaoBQM)" (from "Out in L.A." compilation album)
 1. :cd: "[Deck the Halls](https://www.youtube.com/watch?v=5PIuTXqFrMg)" (Christmas carol cover, from "Out in L.A." compilation album)
 1. :fire: "[Bullet Proof](https://www.youtube.com/watch?v=K27aRR4HlM0)" (live from Del Mar 1991, George Clinton cover)
 
