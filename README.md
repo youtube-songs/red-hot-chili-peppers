@@ -1,7 +1,5 @@
 # Red Hot Chili Peppers
 
-:exclamation: Incorrect songs: "Sikamikanico" :exclamation:
-
 ### [The Red Hot Chili Peppers](https://www.youtube.com/watch_videos?title=The%20Red%20Hot%20Chili%20Peppers&video_ids=j8rDtFvrKVI,Uz2lXK5rS5k,8w-3scXBQLk,-JAM-UDQT5M,M7vfnAhvKJ8,o8YbEFnygZA,AVd7w7YPbSc,EZmWQwX5Fv4,KbPKw4cLO5Q,t8HyxBQnd1Q,i_XFb9esiWA)
 1. :fire: "[True Men Don't Kill Coyotes](https://www.youtube.com/watch?v=j8rDtFvrKVI)" (live from Rockpalast 1985)
 1. :fire: "[Baby Appeal](https://www.youtube.com/watch?v=Uz2lXK5rS5k)" (live from Rockpalast 1985)
@@ -76,7 +74,7 @@
 1. :fire: "[Tiny Dancer](https://www.youtube.com/watch?v=ybkOJ4EbswM)" (live from Landgraaf 1990, Elton John cover, from "Under the Covers: Essential Red Hot Chili Peppers" compilation album)
 1. :fire: "[Dr. Funkenstein](https://www.youtube.com/watch?v=31Iic15bkp4)" (live from Lakewood 1989, Parliament cover, from "Under the Covers: Essential Red Hot Chili Peppers" compilation album)
 
-### [Blood Sugar Sex Magik](https://www.youtube.com/watch_videos?title=Blood%20Sugar%20Sex%20Magik&video_ids=V2bh1feOjZk,SCoUGJRyQEs,_ry2oTLKcPA,f3hWXE5zJBk,xNNVyGonlKU,Jn6Yd_xilHE,RRQwn8rmZfo,0aJfQdui66E,c26fQhpxdtk,q3cQ9_i3OEk,tQOI8AojEys,jYJh0AGud-k,_AAixJwhy2M,nUj11BOA32g,EZ_5J431YIo,zFxpdFt3JAs,ZDFAsb6SNSw,qxTYoM3CQHk,TAetm2h39v8,B0QHErlSm-4,QAMXlIPmgsQ,B3GTTOWGn_E,Qfe-8BbfbFI,Ev64bPz7gc8,2wcSUCaoBQM,5PIuTXqFrMg,K27aRR4HlM0)
+### [Blood Sugar Sex Magik](https://www.youtube.com/watch_videos?title=Blood%20Sugar%20Sex%20Magik&video_ids=V2bh1feOjZk,SCoUGJRyQEs,_ry2oTLKcPA,f3hWXE5zJBk,xNNVyGonlKU,Jn6Yd_xilHE,RRQwn8rmZfo,0aJfQdui66E,c26fQhpxdtk,q3cQ9_i3OEk,tQOI8AojEys,jYJh0AGud-k,_AAixJwhy2M,nUj11BOA32g,EZ_5J431YIo,zFxpdFt3JAs,ZDFAsb6SNSw,qxTYoM3CQHk,TAetm2h39v8,B0QHErlSm-4,B3GTTOWGn_E,08KLSFbeyEY,Qfe-8BbfbFI,Ev64bPz7gc8,2wcSUCaoBQM,5PIuTXqFrMg,K27aRR4HlM0)
 1. :fire: "[The Power of Equality](https://www.youtube.com/watch?v=V2bh1feOjZk)" (live from Slane 2003)
 1. :fire: "[If You Have to Ask](https://www.youtube.com/watch?v=SCoUGJRyQEs)" (live from Sydney 2000)
 1. :fire: "[Breaking the Girl](https://www.youtube.com/watch?v=_ry2oTLKcPA)" (live from New York 2003)
@@ -97,8 +95,8 @@
 1. :cd: "[Little Miss Lover](https://www.youtube.com/watch?v=qxTYoM3CQHk)" (from deluxe edition)
 1. :fire: "[Search and Destroy](https://www.youtube.com/watch?v=TAetm2h39v8)" (live from Paris 2002, The Stooges cover, from B-side of "Give It Away")
 1. :fire: "[Soul to Squeeze](https://www.youtube.com/watch?v=B0QHErlSm-4)" (live from Chorzów 2007, from B-side of "Give It Away")
-1. :fire: "[Sikamikanico](https://www.youtube.com/watch?v=QAMXlIPmgsQ)" (live from Rock in Rio 2019, from B-side of "Under the Bridge")
 1. :cd: "[Fela's Cock](https://www.youtube.com/watch?v=B3GTTOWGn_E)" (from B-side of "Breaking the Girl")
+1. :fire: "[Sikamikanico](https://www.youtube.com/watch?v=08KLSFbeyEY)" (live from Rock in Rio 2019, from "Wayne's World" soundtrack)
 1. :cd: "[Stranded](https://www.youtube.com/watch?v=Qfe-8BbfbFI)" (from "Out in L.A." compilation album)
 1. :cd: "[Flea Fly](https://www.youtube.com/watch?v=Ev64bPz7gc8)" (from "Out in L.A." compilation album)
 1. :cd: "[What It Is](https://www.youtube.com/watch?v=2wcSUCaoBQM)" (from "Out in L.A." compilation album)
