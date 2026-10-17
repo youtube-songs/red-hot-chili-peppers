@@ -3,47 +3,37 @@ title: Red Hot Chili Peppers
 
 'The Red Hot Chili Peppers':
     "True Men Don't Kill Coyotes":
-        id: V83kHRA1_bs
+        id: j8rDtFvrKVI
         live: Rockpalast 1985
     'Baby Appeal':
         id: Uz2lXK5rS5k
         live: Rockpalast 1985
     'Buckle Down':
-        id: 607zeHM11pM
+        id: 8w-3scXBQLk
         live: Rockpalast 1985
     'Get Up and Jump':
         id: -JAM-UDQT5M
         live: Rockpalast 1985
     "Why Don't You Love Me":
-        id: 2Cory44jWqU
-        live: The Patio 1985
+        id: M7vfnAhvKJ8
         cover: Hank Williams
     'Green Heaven':
         id: o8YbEFnygZA
         live: Rockpalast 1985
     "Mommy Where's Daddy?":
-        id: GpKLFJtqowE
-        live: Pinkpop 1990
+        id: AVd7w7YPbSc
+        live: Provinssirock 1988
     'Out in L.A.':
         id: EZmWQwX5Fv4
         live: Rockpalast 1985
     'Police Helicopter':
         id: KbPKw4cLO5Q
-        live: Provnissi Rock Festival 1988
+        live: Provinssirock 1988
     'You Always Sing the Same':
         id: t8HyxBQnd1Q
         live: Madrid 2002
     'Grand Pappy Du Plenty':
         id: i_XFb9esiWA
-    "What It Is (AKA Nina's Song)":
-        id: 2wcSUCaoBQM
-        source: '"Out in L.A." compilation album'
-    'Stranded':
-        id: Qfe-8BbfbFI
-        source: '"Out in L.A." compilation album'
-    'Flea Fly':
-        id: Ev64bPz7gc8
-        source: '"Out in L.A." compilation album'
 'Freaky Styley':
     'Jungle Man':
         id: rMSfah6E2B8
@@ -288,6 +278,15 @@ title: Red Hot Chili Peppers
     "Fela's Cock":
         id: B3GTTOWGn_E
         source: B-side of "Breaking the Girl"
+    'Stranded':
+        id: Qfe-8BbfbFI
+        source: '"Out in L.A." compilation album'
+    'Flea Fly':
+        id: Ev64bPz7gc8
+        source: '"Out in L.A." compilation album'
+    'What It Is':
+        id: 2wcSUCaoBQM
+        source: '"Out in L.A." compilation album'
     'Deck the Halls':
         id: 5PIuTXqFrMg
         cover: Christmas carol
