@@ -13,25 +13,28 @@
 1. :fire: "[You Always Sing the Same](https://www.youtube.com/watch?v=t8HyxBQnd1Q)" (live from Madrid 2002)
 1. :cd: "[Grand Pappy Du Plenty](https://www.youtube.com/watch?v=i_XFb9esiWA)"
 
-### [Freaky Styley](https://www.youtube.com/watch_videos?title=Freaky%20Styley&video_ids=rMSfah6E2B8,lzfYfQvrvQU,s_cnVBoM23Y,jsXkP0HTf3w,Q550oxvlJSk,pZtuB8kamtY,4rofk1WsXOE,oJprMufFlXw,DL5mqGXB0b4,zfq_Rb8EM34,QJPZL2jDihU,3tCHURxNCcc,cN6CW4w9hpk,T1Y05mNxWks,NaM6zgqlGGY,Ex5xWtD0Sh4,_IfkD84Vh3A,tMSiKAnAIXI)
-1. :fire: "[Jungle Man](https://www.youtube.com/watch?v=rMSfah6E2B8)" (live from Germany 1985)
-1. :fire: "[Hollywood (Africa)](https://www.youtube.com/watch?v=lzfYfQvrvQU)" (live from Rockpalast 1985, The Meters cover)
-1. :fire: "[American Ghost Dance](https://www.youtube.com/watch?v=s_cnVBoM23Y)" (live from Indianapolis 1985)
+### [Freaky Styley](https://www.youtube.com/watch_videos?title=Freaky%20Styley&video_ids=oI9Buwqkpzw,UiuA5s_xcdY,SxJEmWmtGRs,jsXkP0HTf3w,pPAYnkfBAFs,pZtuB8kamtY,iTwrmHHiwC4,UP2jnVc1quE,6rUKO-568ts,zfq_Rb8EM34,nizZS0GEMIY,3tCHURxNCcc,wwO7Vw42n9E,mKjBn8UD83Y,NaM6zgqlGGY,Ex5xWtD0Sh4,_IfkD84Vh3A,cSB5F8hqN2g,TO3IU55rjQU,tMSiKAnAIXI,uoAYftrGRjI)
+1. :fire: "[Jungle Man](https://www.youtube.com/watch?v=oI9Buwqkpzw)" (live from Rockpalast 1985)
+1. :fire: "[Hollywood (Africa)](https://www.youtube.com/watch?v=UiuA5s_xcdY)" (live from Rockpalast 1985, The Meters cover)
+1. :cd: "[American Ghost Dance](https://www.youtube.com/watch?v=SxJEmWmtGRs)"
 1. :cd: "[If You Want Me to Stay](https://www.youtube.com/watch?v=jsXkP0HTf3w)" (Sly & the Family Stone cover)
-1. :fire: "[Nevermind](https://www.youtube.com/watch?v=Q550oxvlJSk)" (live from Paris 1988)
-1. :fire: "[Freaky Styley](https://www.youtube.com/watch?v=pZtuB8kamtY)" (live from Madison Square Garden 1996)
-1. :fire: "[Blackeyed Blonde](https://www.youtube.com/watch?v=4rofk1WsXOE)" (live from Off the Map 2000)
-1. :fire: "[The Brothers Cup](https://www.youtube.com/watch?v=oJprMufFlXw)" (live from Santa Cruz 1986)
-1. :fire: "[Battleship](https://www.youtube.com/watch?v=DL5mqGXB0b4)" (live from Columbus 1984)
+1. :fire: "[Nevermind](https://www.youtube.com/watch?v=pPAYnkfBAFs)" (live from Paris 1988)
+1. :fire: "[Freaky Styley](https://www.youtube.com/watch?v=pZtuB8kamtY)" (live from New York 1996)
+1. :fire: "[Blackeyed Blonde](https://www.youtube.com/watch?v=iTwrmHHiwC4)" (live from Rockpalast 1985)
+1. :cd: "[The Brothers Cup](https://www.youtube.com/watch?v=UP2jnVc1quE)"
+1. :cd: "[Battleship](https://www.youtube.com/watch?v=6rUKO-568ts)"
 1. :fire: "[Lovin' and Touchin'](https://www.youtube.com/watch?v=zfq_Rb8EM34)" (live from Mississippi Nights 1986)
-1. :fire: "[Catholic School Girls Rule](https://www.youtube.com/watch?v=QJPZL2jDihU)" (live from The Ritz 1986)
+1. :fire: "[Catholic School Girls Rule](https://www.youtube.com/watch?v=nizZS0GEMIY)" (live from Mississippi Nights 1986)
 1. :fire: "[Sex Rap](https://www.youtube.com/watch?v=3tCHURxNCcc)" (live from Paris 2006)
-1. :fire: "[Thirty Dirty Birds](https://www.youtube.com/watch?v=cN6CW4w9hpk)" (live from The Ritz 1985)
-1. :fire: "[Yertle the Turtle](https://www.youtube.com/watch?v=T1Y05mNxWks)" (live from Hannover 2016)
+1. :cd: "[Thirty Dirty Birds](https://www.youtube.com/watch?v=wwO7Vw42n9E)"
+1. :fire: "[Yertle the Turtle](https://www.youtube.com/watch?v=mKjBn8UD83Y)" (live from Hilversum 1990)
 1. :cd: "[Oom Chucka Willie](https://www.youtube.com/watch?v=NaM6zgqlGGY)" (from recording sessions)
 1. :cd: "[Prince Of Sadness](https://www.youtube.com/watch?v=Ex5xWtD0Sh4)" (from recording sessions)
 1. :cd: "[Bone](https://www.youtube.com/watch?v=_IfkD84Vh3A)" (from recording sessions)
+1. :cd: "[Stale Bastard](https://www.youtube.com/watch?v=cSB5F8hqN2g)" (from recording sessions)
+1. :fire: "[Heemi Lheemy](https://www.youtube.com/watch?v=TO3IU55rjQU)" (live from Rockpalast 1985)
 1. :cd: "[Set It Straight](https://www.youtube.com/watch?v=tMSiKAnAIXI)" (from "Tough Guys" film)
+1. :fire: "[Foxy Lady](https://www.youtube.com/watch?v=uoAYftrGRjI)" (live from The Roxy 1986, Jimi Hendrix cover)
 
 ### [The Uplift Mofo Party Plan](https://www.youtube.com/watch_videos?title=The%20Uplift%20Mofo%20Party%20Plan&video_ids=pk9nPVKrUTw,P3FCT6kT4n4,GmoS_E4qhDs,qaePWd0Wqq0,ZymdEOAH5xE,o8fX0mcU6to,NhoOOOln-Fw,ggcwvZpLNjA,mYSZtBTJIn8,_sktwR3GkXM,mnoarg0c9Vk,xdd6BkD41zU,MjpAmPoqSB0,c7vBpGr1e7A)
 1. :fire: "[Fight Like a Brave](https://www.youtube.com/watch?v=pk9nPVKrUTw)" (live from Pinkpop Festival 1988)
