@@ -36,48 +36,44 @@ title: Red Hot Chili Peppers
         id: i_XFb9esiWA
 'Freaky Styley':
     'Jungle Man':
-        id: rMSfah6E2B8
-        live: Germany 1985
+        id: oI9Buwqkpzw
+        live: Rockpalast 1985
     'Hollywood (Africa)':
-        id: lzfYfQvrvQU
+        id: UiuA5s_xcdY
         live: Rockpalast 1985
         cover: The Meters
     'American Ghost Dance':
-        id: s_cnVBoM23Y
-        live: Indianapolis 1985
+        id: SxJEmWmtGRs
     'If You Want Me to Stay':
         id: jsXkP0HTf3w
         cover: Sly & the Family Stone
     'Nevermind':
-        id: Q550oxvlJSk
+        id: pPAYnkfBAFs
         live: Paris 1988
     'Freaky Styley':
         id: pZtuB8kamtY
-        live: Madison Square Garden 1996
+        live: New York 1996
     'Blackeyed Blonde':
-        id: 4rofk1WsXOE
-        live: Off the Map 2000
+        id: iTwrmHHiwC4
+        live: Rockpalast 1985
     'The Brothers Cup':
-        id: oJprMufFlXw
-        live: Santa Cruz 1986
+        id: UP2jnVc1quE
     'Battleship':
-        id: DL5mqGXB0b4
-        live: Columbus 1984
+        id: 6rUKO-568ts
     "Lovin' and Touchin'":
         id: zfq_Rb8EM34
         live: Mississippi Nights 1986
     'Catholic School Girls Rule':
-        id: QJPZL2jDihU
-        live: The Ritz 1986
+        id: nizZS0GEMIY
+        live: Mississippi Nights 1986
     'Sex Rap':
         id: 3tCHURxNCcc
         live: Paris 2006
     'Thirty Dirty Birds':
-        id: cN6CW4w9hpk
-        live: The Ritz 1985
+        id: wwO7Vw42n9E
     'Yertle the Turtle':
-        id: T1Y05mNxWks
-        live: Hannover 2016
+        id: mKjBn8UD83Y
+        live: Hilversum 1990
     'Oom Chucka Willie':
         id: NaM6zgqlGGY
         source: recording sessions
@@ -87,9 +83,19 @@ title: Red Hot Chili Peppers
     'Bone':
         id: _IfkD84Vh3A
         source: recording sessions
+    'Stale Bastard':
+        id: cSB5F8hqN2g
+        source: recording sessions
+    'Heemi Lheemy':
+        id: TO3IU55rjQU
+        live: Rockpalast 1985
     'Set It Straight':
         id: tMSiKAnAIXI
         source: '"Tough Guys" film'
+    'Foxy Lady':
+        id: uoAYftrGRjI
+        live: The Roxy 1986
+        cover: Jimi Hendrix
 'The Uplift Mofo Party Plan':
     'Fight Like a Brave':
         id: pk9nPVKrUTw
