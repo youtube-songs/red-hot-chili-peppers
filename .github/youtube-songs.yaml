@@ -99,44 +99,42 @@ title: Red Hot Chili Peppers
 'The Uplift Mofo Party Plan':
     'Fight Like a Brave':
         id: pk9nPVKrUTw
-        live: Pinkpop Festival 1988
+        live: Pinkpop 1988
     'Funky Crime':
-        id: P3FCT6kT4n4
-        live: Pinkpop Festival 1990
+        id: ijiNX07bGiQ
+        live: Pinkpop 1988
     'Me and My Friends':
-        id: GmoS_E4qhDs
-        live: Paris 2006
+        id: EKeat_ov9u8
+        live: Mississippi Nights 1986
     'Backwoods':
-        id: qaePWd0Wqq0
-        live: Pinkpop Festival 1990
+        id: NP3nqL62GrI
+        live: Pinkpop 1988
     'Skinny Sweaty Man':
         id: ZymdEOAH5xE
-        live: Off The Map 2000
+        live: Off the Map 2000
     'Behind the Sun':
         id: o8fX0mcU6to
     'Subterranean Homesick Blues':
         id: NhoOOOln-Fw
-        live: Off The Map 2000
-    'Party on Your Pussy':
-        id: ggcwvZpLNjA
-        live: George Mason University 1989
+        live: Off the Map 2000
+        cover: Bob Dylan
+    'Special Secret Song Inside':
+        id: uC84nTOmviE
+        live: Zürich 1988
     'No Chump Love Sucker':
         id: mYSZtBTJIn8
-        live: Landgraaf 1987
+        live: Eindhoven 1988
     "Walkin' on Down the Road":
         id: _sktwR3GkXM
     'Love Trilogy':
-        id: mnoarg0c9Vk
-        live: Las Vegas 1998
+        id: O1QT_sDBEkw
+        live: Del Mar 1991
     'Organic Anti-Beat Box Band':
-        id: xdd6BkD41zU
-        live: Arsenio Hall 1987
-    'Blues for Meister':
-        id: MjpAmPoqSB0
-        source: '"Out in L.A." compilation album'
+        id: SHS-uhAw378
+        live: Del Mar 1991
     'Aroma':
         id: c7vBpGr1e7A
-        source: instrumental demos
+        source: recording sessions
 "Mother's Milk":
     'Good Time Boys':
         id: 5iIBfsy6kE8
@@ -284,6 +282,9 @@ title: Red Hot Chili Peppers
         id: 08KLSFbeyEY
         live: Rock in Rio 2019
         source: '"Wayne''s World" soundtrack'
+    'Blues for Meister':
+        id: MjpAmPoqSB0
+        source: '"Out in L.A." compilation album'
     'Stranded':
         id: Qfe-8BbfbFI
         source: '"Out in L.A." compilation album'
