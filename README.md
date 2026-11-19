@@ -75,35 +75,38 @@
 1. :fire: "[F.U.](https://www.youtube.com/watch?v=-sjuk5Np7FI)" (live from New York 1989, Thelonious Monk cover, from "Out in L.A." compilation album)
 1. :fire: "[Standing on the Verge of Getting It On](https://www.youtube.com/watch?v=WIptrS_8Sao)" (live from Lakewood 1989, Funkadelic cover)
 
-### [Blood Sugar Sex Magik](https://www.youtube.com/watch_videos?title=Blood%20Sugar%20Sex%20Magik&video_ids=V2bh1feOjZk,SCoUGJRyQEs,_ry2oTLKcPA,f3hWXE5zJBk,xNNVyGonlKU,Jn6Yd_xilHE,RRQwn8rmZfo,0aJfQdui66E,c26fQhpxdtk,q3cQ9_i3OEk,tQOI8AojEys,jYJh0AGud-k,_AAixJwhy2M,nUj11BOA32g,EZ_5J431YIo,zFxpdFt3JAs,ZDFAsb6SNSw,qxTYoM3CQHk,TAetm2h39v8,B0QHErlSm-4,B3GTTOWGn_E,08KLSFbeyEY,MjpAmPoqSB0,Qfe-8BbfbFI,Ev64bPz7gc8,2wcSUCaoBQM,5PIuTXqFrMg,K27aRR4HlM0)
+### [Blood Sugar Sex Magik](https://www.youtube.com/watch_videos?title=Blood%20Sugar%20Sex%20Magik&video_ids=V2bh1feOjZk,wumHtHG1yD0,EVmfXA3vjuE,f3hWXE5zJBk,xNNVyGonlKU,Jn6Yd_xilHE,RRQwn8rmZfo,0aJfQdui66E,c26fQhpxdtk,ejckegCj0sY,tQOI8AojEys,-D91M_5v3aQ,_AAixJwhy2M,nUj11BOA32g,EZ_5J431YIo,V9TjoXtHAIg,MlXvSVKMATA,qxTYoM3CQHk,TAetm2h39v8,B0QHErlSm-4,B3GTTOWGn_E,08KLSFbeyEY,CvcvyD3h0mQ,MjpAmPoqSB0,Qfe-8BbfbFI,Ev64bPz7gc8,2wcSUCaoBQM,AVSitvdsWLk,K27aRR4HlM0,3qYlUqUzFjc,mTJwOaCXhFs)
 1. :fire: "[The Power of Equality](https://www.youtube.com/watch?v=V2bh1feOjZk)" (live from Slane 2003)
-1. :fire: "[If You Have to Ask](https://www.youtube.com/watch?v=SCoUGJRyQEs)" (live from Sydney 2000)
-1. :fire: "[Breaking the Girl](https://www.youtube.com/watch?v=_ry2oTLKcPA)" (live from New York 2003)
+1. :fire: "[If You Have to Ask](https://www.youtube.com/watch?v=wumHtHG1yD0)" (live from Darien 2000)
+1. :cd: "[Breaking the Girl](https://www.youtube.com/watch?v=EVmfXA3vjuE)"
 1. :fire: "[Funky Monks](https://www.youtube.com/watch?v=f3hWXE5zJBk)" (live from Denver 2006)
 1. :fire: "[Suck My Kiss](https://www.youtube.com/watch?v=xNNVyGonlKU)" (live from Off the Map 2000)
 1. :fire: "[I Could Have Lied](https://www.youtube.com/watch?v=Jn6Yd_xilHE)" (live from Tokyo 2000)
 1. :cd: "[Mellowship Slinky in B Major](https://www.youtube.com/watch?v=RRQwn8rmZfo)"
 1. :cd: "[The Righteous & the Wicked](https://www.youtube.com/watch?v=0aJfQdui66E)"
 1. :fire: "[Give It Away](https://www.youtube.com/watch?v=c26fQhpxdtk)" (live from Milano 2006)
-1. :fire: "[Blood Sugar Sex Magik](https://www.youtube.com/watch?v=q3cQ9_i3OEk)" (live from Woodstock 1994)
+1. :fire: "[Blood Sugar Sex Magik](https://www.youtube.com/watch?v=ejckegCj0sY)" (live from Sacramento 2006)
 1. :fire: "[Under the Bridge](https://www.youtube.com/watch?v=tQOI8AojEys)" (live from Slane 2003)
-1. :fire: "[Naked in the Rain](https://www.youtube.com/watch?v=jYJh0AGud-k)" (live from Civic Center 1990)
+1. :cd: "[Naked in the Rain](https://www.youtube.com/watch?v=-D91M_5v3aQ)"
 1. :cd: "[Apache Rose Peacock](https://www.youtube.com/watch?v=_AAixJwhy2M)"
 1. :cd: "[The Greeting Song](https://www.youtube.com/watch?v=nUj11BOA32g)"
 1. :fire: "[My Lovely Man](https://www.youtube.com/watch?v=EZ_5J431YIo)" (live from Nürburg 2004)
-1. :fire: "[Sir Psycho Sexy](https://www.youtube.com/watch?v=zFxpdFt3JAs)" (live from Woodstock 1999)
-1. :fire: "[They're Red Hot](https://www.youtube.com/watch?v=ZDFAsb6SNSw)" (live from Udine 2007)
-1. :cd: "[Little Miss Lover](https://www.youtube.com/watch?v=qxTYoM3CQHk)" (from deluxe edition)
+1. :fire: "[Sir Psycho Sexy](https://www.youtube.com/watch?v=V9TjoXtHAIg)" (live from Off the Map 2000)
+1. :fire: "[They're Red Hot](https://www.youtube.com/watch?v=MlXvSVKMATA)" (live from Camden 2003, Robert Johnson cover)
+1. :cd: "[Little Miss Lover](https://www.youtube.com/watch?v=qxTYoM3CQHk)" (Jimi Hendrix cover, from deluxe edition)
 1. :fire: "[Search and Destroy](https://www.youtube.com/watch?v=TAetm2h39v8)" (live from Paris 2002, The Stooges cover, from B-side of "Give It Away")
 1. :fire: "[Soul to Squeeze](https://www.youtube.com/watch?v=B0QHErlSm-4)" (live from Chorzów 2007, from B-side of "Give It Away")
-1. :cd: "[Fela's Cock](https://www.youtube.com/watch?v=B3GTTOWGn_E)" (from B-side of "Breaking the Girl")
+1. :cd: "[Fela's Cock](https://www.youtube.com/watch?v=B3GTTOWGn_E)" (from B-side of "Suck My Kiss")
 1. :fire: "[Sikamikanico](https://www.youtube.com/watch?v=08KLSFbeyEY)" (live from Rock in Rio 2019, from "Wayne's World" soundtrack)
+1. :cd: "[Reputation](https://www.youtube.com/watch?v=CvcvyD3h0mQ)" (from "I'm Funk and I'm Proud" album by Andre Foxxe)
 1. :cd: "[Blues for Meister](https://www.youtube.com/watch?v=MjpAmPoqSB0)" (from "Out in L.A." compilation album)
 1. :cd: "[Stranded](https://www.youtube.com/watch?v=Qfe-8BbfbFI)" (from "Out in L.A." compilation album)
 1. :cd: "[Flea Fly](https://www.youtube.com/watch?v=Ev64bPz7gc8)" (from "Out in L.A." compilation album)
 1. :cd: "[What It Is](https://www.youtube.com/watch?v=2wcSUCaoBQM)" (from "Out in L.A." compilation album)
-1. :cd: "[Deck the Halls](https://www.youtube.com/watch?v=5PIuTXqFrMg)" (Christmas carol cover, from "Out in L.A." compilation album)
+1. :cd: "[Deck the Halls](https://www.youtube.com/watch?v=AVSitvdsWLk)" (Christmas carol cover, from "Out in L.A." compilation album)
 1. :fire: "[Bullet Proof](https://www.youtube.com/watch?v=K27aRR4HlM0)" (live from Del Mar 1991, George Clinton cover)
+1. :fire: "[Kip Winger](https://www.youtube.com/watch?v=3qYlUqUzFjc)" (live from Toronto 1991)
+1. :fire: "[Good to Your Earhole](https://www.youtube.com/watch?v=mTJwOaCXhFs)" (live from Rio de Janeiro 1993, Funkadelic cover)
 
 ### [One Hot Minute](https://www.youtube.com/watch_videos?title=One%20Hot%20Minute&video_ids=xmyuJZH3RAc,0dE4pHUgqU0,kj4o-sbKYe4,0kT5w27YxyI,WkkKStRwokQ,BXJjBo_u3WM,AF4UaL08beU,SW4yvVhB1PE,CZbG9V5EyIM,T6Ii7D4rYrg,5531o-YeGtk,BwT8zKrjiJw,oyZ_-O3YVEY,72T4Xce8-x0,56PWNtiIV3o,8kFavNl07SE,S0wtM8PdaBQ,cF3KXXMJOPQ,qfbI82qdOls,4n6D8lB0A9w,fkCVhdy3Pis,31Iic15bkp4,ePKYs6eCzC8)
 1. :cd: "[Warped](https://www.youtube.com/watch?v=xmyuJZH3RAc)"
