@@ -138,10 +138,10 @@ title: Red Hot Chili Peppers
 "Mother's Milk":
     'Good Time Boys':
         id: 5iIBfsy6kE8
-        live: Long Beach Arena 1989
+        live: Long Beach 1989
     'Higher Ground':
-        id: 1XvVlbNJPIE
-        live: Paris 2011
+        id: n0nvYWPtLU8
+        live: Lakewood 1989
         cover: Stevie Wonder
     'Subway to Venus':
         id: zsLf-L4tIZM
@@ -150,30 +150,30 @@ title: Red Hot Chili Peppers
         id: a-VLqCHWeLs
         live: Milano 1992
     'Nobody Weird Like Me':
-        id: RHTQTs6fj5E
-        live: London 2022
+        id: nKHmApu-zMc
+        live: München 2016
     'Knock Me Down':
         id: on_97ntUpkE
-        live: Long Beach Arena 1989
+        live: Long Beach 1989
     'Taste the Pain':
-        id: OCQJvggdbGs
-        live: Long Beach 1988
+        id: EIfQMG9-exw
+        live: Minneapolis 1989
     'Stone Cold Bush':
         id: n0GoMnPuOGs
         live: Long Beach 1989
     'Fire':
         id: fNx6b4Wxaqs
-        live: Off The Map 2000
+        live: Off the Map 2000
         cover: Jimi Hendrix
     'Pretty Little Ditty':
-        id: Jo32HBoTbRc
-        live: Kawasaki 1990
+        id: 8DxlZL2ce1Q
+        live: Lakewood 1989
     'Punk Rock Classic':
         id: bsvOMzO4Zw0
         live: Long Beach 1988
     'Sexy Mexican Maid':
         id: bEf_Wfqou3I
-        live: '1989'
+        live: New York 1990
     'Johnny, Kick a Hole in the Sky':
         id: n9JJ__hqTOo
     'Song That Made Us What We Are Today':
@@ -182,13 +182,9 @@ title: Red Hot Chili Peppers
     'Salute to Kareem':
         id: abNSJyzvDjU
         source: remastered edition
-    'Castles Made of Sand':
-        id: t96-5miabxQ
-        source: remastered edition
-        cover: Jimi Hendrix
     'Crosstown Traffic':
         id: My5kevSthEo
-        live: Cleveland 1989
+        live: Lakewood 1989
         source: remastered edition
         cover: Jimi Hendrix
     'Millionaires Against Hunger':
@@ -197,24 +193,23 @@ title: Red Hot Chili Peppers
     'Politician (Mini Rap)':
         id: cQ9zDQ7mj0Y
         source: B-side of "Higher Ground"
+    'Castles Made of Sand':
+        id: f8Xv4Mz3fBo
+        live: Lakewood 1989
+        source: B-side of "Taste the Pain"
+        cover: Jimi Hendrix
     'Show Me Your Soul':
         id: ToAk89ozubA
         source: '"Pretty Woman" soundtrack'
     'F.U.':
         id: -sjuk5Np7FI
-        live: Phantasy Theatre 1989
+        live: New York 1989
         cover: Thelonious Monk
         source: '"Out in L.A." compilation album'
-    'Tiny Dancer':
-        id: ybkOJ4EbswM
-        live: Landgraaf 1990
-        cover: Elton John
-        source: '"Under the Covers: Essential Red Hot Chili Peppers" compilation album'
-    'Dr. Funkenstein':
-        id: 31Iic15bkp4
+    'Standing on the Verge of Getting It On':
+        id: WIptrS_8Sao
         live: Lakewood 1989
-        cover: Parliament
-        source: '"Under the Covers: Essential Red Hot Chili Peppers" compilation album'
+        cover: Funkadelic
 'Blood Sugar Sex Magik':
     'The Power of Equality':
         id: V2bh1feOjZk
@@ -355,6 +350,16 @@ title: Red Hot Chili Peppers
         id: 4n6D8lB0A9w
         cover: Ohio Players
         source: '"Beavis and Butt-Head Do America" soundtrack'
+    'Tiny Dancer':
+        id: fkCVhdy3Pis
+        live: Landgraaf 1990
+        cover: Elton John
+        source: '"Under the Covers: Essential Red Hot Chili Peppers" compilation album'
+    'Dr. Funkenstein':
+        id: 31Iic15bkp4
+        live: Lakewood 1989
+        cover: Parliament
+        source: '"Under the Covers: Essential Red Hot Chili Peppers" compilation album'
     'Circle Of The Noose':
         id: ePKYs6eCzC8
         source: the sessions to follow up album
