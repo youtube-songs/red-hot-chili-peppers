@@ -215,11 +215,10 @@ title: Red Hot Chili Peppers
         id: V2bh1feOjZk
         live: Slane 2003
     'If You Have to Ask':
-        id: SCoUGJRyQEs
-        live: Sydney 2000
+        id: wumHtHG1yD0
+        live: Darien 2000
     'Breaking the Girl':
-        id: _ry2oTLKcPA
-        live: New York 2003
+        id: EVmfXA3vjuE
     'Funky Monks':
         id: f3hWXE5zJBk
         live: Denver 2006
@@ -237,14 +236,13 @@ title: Red Hot Chili Peppers
         id: c26fQhpxdtk
         live: Milano 2006
     'Blood Sugar Sex Magik':
-        id: q3cQ9_i3OEk
-        live: Woodstock 1994
+        id: ejckegCj0sY
+        live: Sacramento 2006
     'Under the Bridge':
         id: tQOI8AojEys
         live: Slane 2003
     'Naked in the Rain':
-        id: jYJh0AGud-k
-        live: Civic Center 1990
+        id: -D91M_5v3aQ
     'Apache Rose Peacock':
         id: _AAixJwhy2M
     'The Greeting Song':
@@ -253,13 +251,15 @@ title: Red Hot Chili Peppers
         id: EZ_5J431YIo
         live: Nürburg 2004
     'Sir Psycho Sexy':
-        id: zFxpdFt3JAs
-        live: Woodstock 1999
+        id: V9TjoXtHAIg
+        live: Off the Map 2000
     "They're Red Hot":
-        id: ZDFAsb6SNSw
-        live: Udine 2007
+        id: MlXvSVKMATA
+        live: Camden 2003
+        cover: Robert Johnson
     'Little Miss Lover':
         id: qxTYoM3CQHk
+        cover: Jimi Hendrix
         source: deluxe edition
     'Search and Destroy':
         id: TAetm2h39v8
@@ -272,11 +272,14 @@ title: Red Hot Chili Peppers
         source: B-side of "Give It Away"
     "Fela's Cock":
         id: B3GTTOWGn_E
-        source: B-side of "Breaking the Girl"
+        source: B-side of "Suck My Kiss"
     'Sikamikanico':
         id: 08KLSFbeyEY
         live: Rock in Rio 2019
         source: '"Wayne''s World" soundtrack'
+    'Reputation':
+        id: CvcvyD3h0mQ
+        source: '"I''m Funk and I''m Proud" album by Andre Foxxe'
     'Blues for Meister':
         id: MjpAmPoqSB0
         source: '"Out in L.A." compilation album'
@@ -290,13 +293,20 @@ title: Red Hot Chili Peppers
         id: 2wcSUCaoBQM
         source: '"Out in L.A." compilation album'
     'Deck the Halls':
-        id: 5PIuTXqFrMg
+        id: AVSitvdsWLk
         cover: Christmas carol
         source: '"Out in L.A." compilation album'
     'Bullet Proof':
         id: K27aRR4HlM0
         live: Del Mar 1991
         cover: George Clinton
+    'Kip Winger':
+        id: 3qYlUqUzFjc
+        live: Toronto 1991
+    'Good to Your Earhole':
+        id: mTJwOaCXhFs
+        live: Rio de Janeiro 1993
+        cover: Funkadelic
 'One Hot Minute':
     'Warped':
         id: xmyuJZH3RAc
