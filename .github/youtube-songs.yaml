@@ -34,6 +34,12 @@ title: Red Hot Chili Peppers
         live: Madrid 2002
     'Grand Pappy Du Plenty':
         id: i_XFb9esiWA
+    'Flea Fly':
+        id: Ev64bPz7gc8
+        source: '"Out in L.A." compilation album'
+    'What It Is':
+        id: 2wcSUCaoBQM
+        source: '"Out in L.A." compilation album'
 'Freaky Styley':
     'Jungle Man':
         id: oI9Buwqkpzw
@@ -74,6 +80,9 @@ title: Red Hot Chili Peppers
     'Yertle the Turtle':
         id: mKjBn8UD83Y
         live: Hilversum 1990
+    'Stranded':
+        id: Qfe-8BbfbFI
+        source: B-side of "Jungle Man"
     'Oom Chucka Willie':
         id: NaM6zgqlGGY
         source: recording sessions
@@ -132,6 +141,9 @@ title: Red Hot Chili Peppers
     'Organic Anti-Beat Box Band':
         id: SHS-uhAw378
         live: Del Mar 1991
+    'Blues for Meister':
+        id: MjpAmPoqSB0
+        source: '"Out in L.A." compilation album'
     'Aroma':
         id: c7vBpGr1e7A
         source: recording sessions
@@ -198,14 +210,14 @@ title: Red Hot Chili Peppers
         live: Lakewood 1989
         source: B-side of "Taste the Pain"
         cover: Jimi Hendrix
-    'Show Me Your Soul':
-        id: ToAk89ozubA
-        source: '"Pretty Woman" soundtrack'
     'F.U.':
         id: -sjuk5Np7FI
         live: New York 1989
         cover: Thelonious Monk
-        source: '"Out in L.A." compilation album'
+        source: B-side of "Taste the Pain"
+    'Show Me Your Soul':
+        id: ToAk89ozubA
+        source: '"Pretty Woman" soundtrack'
     'Standing on the Verge of Getting It On':
         id: WIptrS_8Sao
         live: Lakewood 1989
@@ -280,18 +292,6 @@ title: Red Hot Chili Peppers
     'Reputation':
         id: CvcvyD3h0mQ
         source: '"I''m Funk and I''m Proud" album by Andre Foxxe'
-    'Blues for Meister':
-        id: MjpAmPoqSB0
-        source: '"Out in L.A." compilation album'
-    'Stranded':
-        id: Qfe-8BbfbFI
-        source: '"Out in L.A." compilation album'
-    'Flea Fly':
-        id: Ev64bPz7gc8
-        source: '"Out in L.A." compilation album'
-    'What It Is':
-        id: 2wcSUCaoBQM
-        source: '"Out in L.A." compilation album'
     'Deck the Halls':
         id: AVSitvdsWLk
         cover: Christmas carol
