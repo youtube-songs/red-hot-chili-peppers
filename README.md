@@ -1,6 +1,6 @@
 # Red Hot Chili Peppers
 
-### [The Red Hot Chili Peppers](https://www.youtube.com/watch_videos?title=The%20Red%20Hot%20Chili%20Peppers&video_ids=j8rDtFvrKVI,Uz2lXK5rS5k,8w-3scXBQLk,-JAM-UDQT5M,M7vfnAhvKJ8,o8YbEFnygZA,AVd7w7YPbSc,EZmWQwX5Fv4,KbPKw4cLO5Q,t8HyxBQnd1Q,i_XFb9esiWA)
+### [The Red Hot Chili Peppers](https://www.youtube.com/watch_videos?title=The%20Red%20Hot%20Chili%20Peppers&video_ids=j8rDtFvrKVI,Uz2lXK5rS5k,8w-3scXBQLk,-JAM-UDQT5M,M7vfnAhvKJ8,o8YbEFnygZA,AVd7w7YPbSc,EZmWQwX5Fv4,KbPKw4cLO5Q,t8HyxBQnd1Q,i_XFb9esiWA,Ev64bPz7gc8,2wcSUCaoBQM)
 1. :fire: "[True Men Don't Kill Coyotes](https://www.youtube.com/watch?v=j8rDtFvrKVI)" (live from Rockpalast 1985)
 1. :fire: "[Baby Appeal](https://www.youtube.com/watch?v=Uz2lXK5rS5k)" (live from Rockpalast 1985)
 1. :fire: "[Buckle Down](https://www.youtube.com/watch?v=8w-3scXBQLk)" (live from Rockpalast 1985)
@@ -12,8 +12,10 @@
 1. :fire: "[Police Helicopter](https://www.youtube.com/watch?v=KbPKw4cLO5Q)" (live from Provinssirock 1988)
 1. :fire: "[You Always Sing the Same](https://www.youtube.com/watch?v=t8HyxBQnd1Q)" (live from Madrid 2002)
 1. :cd: "[Grand Pappy Du Plenty](https://www.youtube.com/watch?v=i_XFb9esiWA)"
+1. :cd: "[Flea Fly](https://www.youtube.com/watch?v=Ev64bPz7gc8)" (from "Out in L.A." compilation album)
+1. :cd: "[What It Is](https://www.youtube.com/watch?v=2wcSUCaoBQM)" (from "Out in L.A." compilation album)
 
-### [Freaky Styley](https://www.youtube.com/watch_videos?title=Freaky%20Styley&video_ids=oI9Buwqkpzw,UiuA5s_xcdY,SxJEmWmtGRs,jsXkP0HTf3w,pPAYnkfBAFs,pZtuB8kamtY,iTwrmHHiwC4,UP2jnVc1quE,6rUKO-568ts,zfq_Rb8EM34,nizZS0GEMIY,3tCHURxNCcc,wwO7Vw42n9E,mKjBn8UD83Y,NaM6zgqlGGY,Ex5xWtD0Sh4,_IfkD84Vh3A,cSB5F8hqN2g,TO3IU55rjQU,tMSiKAnAIXI,uoAYftrGRjI)
+### [Freaky Styley](https://www.youtube.com/watch_videos?title=Freaky%20Styley&video_ids=oI9Buwqkpzw,UiuA5s_xcdY,SxJEmWmtGRs,jsXkP0HTf3w,pPAYnkfBAFs,pZtuB8kamtY,iTwrmHHiwC4,UP2jnVc1quE,6rUKO-568ts,zfq_Rb8EM34,nizZS0GEMIY,3tCHURxNCcc,wwO7Vw42n9E,mKjBn8UD83Y,Qfe-8BbfbFI,NaM6zgqlGGY,Ex5xWtD0Sh4,_IfkD84Vh3A,cSB5F8hqN2g,TO3IU55rjQU,tMSiKAnAIXI,uoAYftrGRjI)
 1. :fire: "[Jungle Man](https://www.youtube.com/watch?v=oI9Buwqkpzw)" (live from Rockpalast 1985)
 1. :fire: "[Hollywood (Africa)](https://www.youtube.com/watch?v=UiuA5s_xcdY)" (live from Rockpalast 1985, The Meters cover)
 1. :cd: "[American Ghost Dance](https://www.youtube.com/watch?v=SxJEmWmtGRs)"
@@ -28,6 +30,7 @@
 1. :fire: "[Sex Rap](https://www.youtube.com/watch?v=3tCHURxNCcc)" (live from Paris 2006)
 1. :cd: "[Thirty Dirty Birds](https://www.youtube.com/watch?v=wwO7Vw42n9E)"
 1. :fire: "[Yertle the Turtle](https://www.youtube.com/watch?v=mKjBn8UD83Y)" (live from Hilversum 1990)
+1. :cd: "[Stranded](https://www.youtube.com/watch?v=Qfe-8BbfbFI)" (from B-side of "Jungle Man")
 1. :cd: "[Oom Chucka Willie](https://www.youtube.com/watch?v=NaM6zgqlGGY)" (from recording sessions)
 1. :cd: "[Prince Of Sadness](https://www.youtube.com/watch?v=Ex5xWtD0Sh4)" (from recording sessions)
 1. :cd: "[Bone](https://www.youtube.com/watch?v=_IfkD84Vh3A)" (from recording sessions)
@@ -36,7 +39,7 @@
 1. :cd: "[Set It Straight](https://www.youtube.com/watch?v=tMSiKAnAIXI)" (from "Tough Guys" film)
 1. :fire: "[Foxy Lady](https://www.youtube.com/watch?v=uoAYftrGRjI)" (live from The Roxy 1986, Jimi Hendrix cover)
 
-### [The Uplift Mofo Party Plan](https://www.youtube.com/watch_videos?title=The%20Uplift%20Mofo%20Party%20Plan&video_ids=pk9nPVKrUTw,ijiNX07bGiQ,EKeat_ov9u8,NP3nqL62GrI,ZymdEOAH5xE,o8fX0mcU6to,NhoOOOln-Fw,uC84nTOmviE,mYSZtBTJIn8,_sktwR3GkXM,O1QT_sDBEkw,SHS-uhAw378,c7vBpGr1e7A)
+### [The Uplift Mofo Party Plan](https://www.youtube.com/watch_videos?title=The%20Uplift%20Mofo%20Party%20Plan&video_ids=pk9nPVKrUTw,ijiNX07bGiQ,EKeat_ov9u8,NP3nqL62GrI,ZymdEOAH5xE,o8fX0mcU6to,NhoOOOln-Fw,uC84nTOmviE,mYSZtBTJIn8,_sktwR3GkXM,O1QT_sDBEkw,SHS-uhAw378,MjpAmPoqSB0,c7vBpGr1e7A)
 1. :fire: "[Fight Like a Brave](https://www.youtube.com/watch?v=pk9nPVKrUTw)" (live from Pinkpop 1988)
 1. :fire: "[Funky Crime](https://www.youtube.com/watch?v=ijiNX07bGiQ)" (live from Pinkpop 1988)
 1. :fire: "[Me and My Friends](https://www.youtube.com/watch?v=EKeat_ov9u8)" (live from Mississippi Nights 1986)
@@ -49,9 +52,10 @@
 1. :cd: "[Walkin' on Down the Road](https://www.youtube.com/watch?v=_sktwR3GkXM)"
 1. :fire: "[Love Trilogy](https://www.youtube.com/watch?v=O1QT_sDBEkw)" (live from Del Mar 1991)
 1. :fire: "[Organic Anti-Beat Box Band](https://www.youtube.com/watch?v=SHS-uhAw378)" (live from Del Mar 1991)
+1. :cd: "[Blues for Meister](https://www.youtube.com/watch?v=MjpAmPoqSB0)" (from "Out in L.A." compilation album)
 1. :cd: "[Aroma](https://www.youtube.com/watch?v=c7vBpGr1e7A)" (from recording sessions)
 
-### [Mother's Milk](https://www.youtube.com/watch_videos?title=Mother%27s%20Milk&video_ids=5iIBfsy6kE8,n0nvYWPtLU8,zsLf-L4tIZM,a-VLqCHWeLs,nKHmApu-zMc,on_97ntUpkE,EIfQMG9-exw,n0GoMnPuOGs,fNx6b4Wxaqs,8DxlZL2ce1Q,bsvOMzO4Zw0,bEf_Wfqou3I,n9JJ__hqTOo,kvjhCJ-1do8,abNSJyzvDjU,My5kevSthEo,NLJtMwYYLX8,cQ9zDQ7mj0Y,f8Xv4Mz3fBo,ToAk89ozubA,-sjuk5Np7FI,WIptrS_8Sao)
+### [Mother's Milk](https://www.youtube.com/watch_videos?title=Mother%27s%20Milk&video_ids=5iIBfsy6kE8,n0nvYWPtLU8,zsLf-L4tIZM,a-VLqCHWeLs,nKHmApu-zMc,on_97ntUpkE,EIfQMG9-exw,n0GoMnPuOGs,fNx6b4Wxaqs,8DxlZL2ce1Q,bsvOMzO4Zw0,bEf_Wfqou3I,n9JJ__hqTOo,kvjhCJ-1do8,abNSJyzvDjU,My5kevSthEo,NLJtMwYYLX8,cQ9zDQ7mj0Y,f8Xv4Mz3fBo,-sjuk5Np7FI,ToAk89ozubA,WIptrS_8Sao)
 1. :fire: "[Good Time Boys](https://www.youtube.com/watch?v=5iIBfsy6kE8)" (live from Long Beach 1989)
 1. :fire: "[Higher Ground](https://www.youtube.com/watch?v=n0nvYWPtLU8)" (live from Lakewood 1989, Stevie Wonder cover)
 1. :fire: "[Subway to Venus](https://www.youtube.com/watch?v=zsLf-L4tIZM)" (live from Del Mar 1991)
@@ -71,11 +75,11 @@
 1. :cd: "[Millionaires Against Hunger](https://www.youtube.com/watch?v=NLJtMwYYLX8)" (from B-side of "Higher Ground")
 1. :cd: "[Politician (Mini Rap)](https://www.youtube.com/watch?v=cQ9zDQ7mj0Y)" (from B-side of "Higher Ground")
 1. :fire: "[Castles Made of Sand](https://www.youtube.com/watch?v=f8Xv4Mz3fBo)" (live from Lakewood 1989, Jimi Hendrix cover, from B-side of "Taste the Pain")
+1. :fire: "[F.U.](https://www.youtube.com/watch?v=-sjuk5Np7FI)" (live from New York 1989, Thelonious Monk cover, from B-side of "Taste the Pain")
 1. :cd: "[Show Me Your Soul](https://www.youtube.com/watch?v=ToAk89ozubA)" (from "Pretty Woman" soundtrack)
-1. :fire: "[F.U.](https://www.youtube.com/watch?v=-sjuk5Np7FI)" (live from New York 1989, Thelonious Monk cover, from "Out in L.A." compilation album)
 1. :fire: "[Standing on the Verge of Getting It On](https://www.youtube.com/watch?v=WIptrS_8Sao)" (live from Lakewood 1989, Funkadelic cover)
 
-### [Blood Sugar Sex Magik](https://www.youtube.com/watch_videos?title=Blood%20Sugar%20Sex%20Magik&video_ids=V2bh1feOjZk,wumHtHG1yD0,EVmfXA3vjuE,f3hWXE5zJBk,xNNVyGonlKU,Jn6Yd_xilHE,RRQwn8rmZfo,0aJfQdui66E,c26fQhpxdtk,ejckegCj0sY,tQOI8AojEys,-D91M_5v3aQ,_AAixJwhy2M,nUj11BOA32g,EZ_5J431YIo,V9TjoXtHAIg,MlXvSVKMATA,qxTYoM3CQHk,TAetm2h39v8,B0QHErlSm-4,B3GTTOWGn_E,08KLSFbeyEY,CvcvyD3h0mQ,MjpAmPoqSB0,Qfe-8BbfbFI,Ev64bPz7gc8,2wcSUCaoBQM,AVSitvdsWLk,K27aRR4HlM0,3qYlUqUzFjc,mTJwOaCXhFs)
+### [Blood Sugar Sex Magik](https://www.youtube.com/watch_videos?title=Blood%20Sugar%20Sex%20Magik&video_ids=V2bh1feOjZk,wumHtHG1yD0,EVmfXA3vjuE,f3hWXE5zJBk,xNNVyGonlKU,Jn6Yd_xilHE,RRQwn8rmZfo,0aJfQdui66E,c26fQhpxdtk,ejckegCj0sY,tQOI8AojEys,-D91M_5v3aQ,_AAixJwhy2M,nUj11BOA32g,EZ_5J431YIo,V9TjoXtHAIg,MlXvSVKMATA,qxTYoM3CQHk,TAetm2h39v8,B0QHErlSm-4,B3GTTOWGn_E,08KLSFbeyEY,CvcvyD3h0mQ,AVSitvdsWLk,K27aRR4HlM0,3qYlUqUzFjc,mTJwOaCXhFs)
 1. :fire: "[The Power of Equality](https://www.youtube.com/watch?v=V2bh1feOjZk)" (live from Slane 2003)
 1. :fire: "[If You Have to Ask](https://www.youtube.com/watch?v=wumHtHG1yD0)" (live from Darien 2000)
 1. :cd: "[Breaking the Girl](https://www.youtube.com/watch?v=EVmfXA3vjuE)"
@@ -99,10 +103,6 @@
 1. :cd: "[Fela's Cock](https://www.youtube.com/watch?v=B3GTTOWGn_E)" (from B-side of "Suck My Kiss")
 1. :fire: "[Sikamikanico](https://www.youtube.com/watch?v=08KLSFbeyEY)" (live from Rock in Rio 2019, from "Wayne's World" soundtrack)
 1. :cd: "[Reputation](https://www.youtube.com/watch?v=CvcvyD3h0mQ)" (from "I'm Funk and I'm Proud" album by Andre Foxxe)
-1. :cd: "[Blues for Meister](https://www.youtube.com/watch?v=MjpAmPoqSB0)" (from "Out in L.A." compilation album)
-1. :cd: "[Stranded](https://www.youtube.com/watch?v=Qfe-8BbfbFI)" (from "Out in L.A." compilation album)
-1. :cd: "[Flea Fly](https://www.youtube.com/watch?v=Ev64bPz7gc8)" (from "Out in L.A." compilation album)
-1. :cd: "[What It Is](https://www.youtube.com/watch?v=2wcSUCaoBQM)" (from "Out in L.A." compilation album)
 1. :cd: "[Deck the Halls](https://www.youtube.com/watch?v=AVSitvdsWLk)" (Christmas carol cover, from "Out in L.A." compilation album)
 1. :fire: "[Bullet Proof](https://www.youtube.com/watch?v=K27aRR4HlM0)" (live from Del Mar 1991, George Clinton cover)
 1. :fire: "[Kip Winger](https://www.youtube.com/watch?v=3qYlUqUzFjc)" (live from Toronto 1991)
