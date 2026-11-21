@@ -484,7 +484,7 @@ title: Red Hot Chili Peppers
     'Plate Of Brown':
         id: fkWqjouMdSs
         source: recording sessions
-'By The Way':
+'By the Way':
     'By the Way':
         id: Gtmnt-Ol1UY
         live: Slane 2003
@@ -492,8 +492,8 @@ title: Red Hot Chili Peppers
         id: wU1HbwC71j4
         live: Slane 2003
     'This Is the Place':
-        id: 4evjn1-QAjQ
-        live: Montreal 2003
+        id: I9GhMIw0ml4
+        live: Rome 2003
     'Dosed':
         id: uhKZ8VJFZy4
         live: Glendale 2017
@@ -507,15 +507,15 @@ title: Red Hot Chili Peppers
         id: Cc3sC63sTFg
         live: Slane 2003
     'I Could Die for You':
-        id: ky18niAuxes
-        live: Madrid 2002
+        id: lZSSPbKd3iA
+        live: Hamburg 2002
     'Midnight':
         id: 4QhFuJWqTAc
     'Throw Away Your Television':
         id: Tyzq2sODokU
         live: Hyde Park 2004
     'Cabron':
-        id: zazQKZ6D8UE
+        id: YguIxOvMarQ
         live: London 2002
     'Tear':
         id: 9OzjUuB3WHo
@@ -531,20 +531,20 @@ title: Red Hot Chili Peppers
         id: ljrgs4TzkTQ
         live: Slane 2003
     'Runaway':
-        id: 0LPL8F01lqs
+        id: dBBFQyZPLyk
         source: deluxe edition
     'Bicycle Song':
-        id: KxmEnbRzxQw
+        id: cpV6H6y5n8E
         source: deluxe edition
     'Fall Water':
         id: C2Xb7a400Dc
-        source: demo session
+        source: recording sessions
     'Goldmine':
         id: PuVdwAiMak0
-        source: demo session
+        source: recording sessions
     'Rock & Roll':
         id: 3xwv6EJxC0I
-        source: demo session
+        source: recording sessions
     'Time':
         id: M6RMq-WiCJE
         source: B-side of "By the Way"
@@ -553,8 +553,8 @@ title: Red Hot Chili Peppers
         cover: Dion and the Belmonts
         source: B-side of "By the Way"
     'What Is Soul?':
-        id: kldWAZPU8TA
-        live: Off The Map
+        id: rQrJN25NeUI
+        live: Portland 2000
         cover: Funkadelic
         source: B-side of "By the Way"
     'Body of Water':
@@ -574,16 +574,17 @@ title: Red Hot Chili Peppers
         live: Christchurch 2002
         source: B-side of "Can't Stop"
     'Nothing to Lose':
-        id: 7BYu3Ed9YMc
+        id: cMHnZ9o-N5U
         live: Las Vegas 2002
         source: B-side of "Can't Stop"
     'Slowly Deeply':
         id: hOIjWgw6CwM
         source: B-side of "Universally Speaking"
-    'Fortune Faded':
-        id: 3cAht9TdqVI
-        live: Yokohama 2004
-        source: '"Greatest Hits" compilation album'
+    'Havana Affair':
+        id: 0Mh8OGReRAg
+        live: Paris 2002
+        cover: Ramones
+        source: '"We''re a Happy Family: A Tribute to Ramones" album'
     'Eskimo':
         id: 9ZAPwlntLt8
         source: B-side of "Fortune Faded"
@@ -591,72 +592,68 @@ title: Red Hot Chili Peppers
         id: pBo55gu8b1Q
         source: B-side of "Fortune Faded"
     'Tuesday Night in Berlin':
-        id: JVvHzXZk25c
+        id: gLC6a58Vyrg
         live: Berlin 2003
         source: B-side of "Fortune Faded"
+    'Fortune Faded':
+        id: 2LdEHngXGMs
+        live: Hyde Park 2004
+        source: '"Greatest Hits" compilation album'
     'Save the Population':
         id: tSjw2LMtl9U
         source: '"Greatest Hits" compilation album'
     '50/Fifty':
         id: hYzRu776p-k
-        source: '"Greatest Hits" compilation album'
+        source: recording sessions
     'Starlight':
         id: TxscvwCVEwQ
-        source: '"Greatest Hits" compilation album'
-    'Havana Affair':
-        id: JAFi9V6czdE
-        cover: Ramones
-        source: '"We''re a Happy Family: A Tribute to Ramones" compilation album'
+        source: recording sessions
     'I Feel Love':
-        id: 1944QWi01Ow
+        id: gmNZGznUmIE
         live: Hyde Park 2004
         cover: Donna Summer
         source: '"Live in Hyde Park" live album'
     'Brandy':
-        id: 6_m53hrW3uc
-        live: London 2004
+        id: 8WK9dLM79hU
+        live: Hyde Park 2004
         cover: Looking Glass
         source: '"Live in Hyde Park" live album'
     'Rolling Sly Stone':
-        id: IJ_xlBelD4Y
+        id: mEgiqBPOzPU
         live: Hyde Park 2004
         source: '"Live in Hyde Park" live album'
     'Leverage of Space':
-        id: bQYq_NEsPVY
+        id: BZTWLl2_Gt0
         live: Hyde Park 2004
         source: '"Live in Hyde Park" live album'
     'Drum Homage Medley':
-        id: 81rPFh_gP3Y
+        id: a6pmnQfbtAA
         live: Hyde Park 2004
         source: '"Live in Hyde Park" live album'
     'Black Cross':
-        id: JINUbu1pSeg
+        id: givWmn6qnG0
         live: Hyde Park 2004
         cover: 45 Grave
         source: '"Live in Hyde Park" live album'
     "Flea's Trumpet Treated by John":
-        id: Om40S1Yu-Lw
+        id: Wfg1YMURLV8
         live: Hyde Park 2004
         source: '"Live in Hyde Park" live album'
+    "It's a Long Way Back":
+        id: qBcDqmKKp44
+        live: Los Angeles 2004
+        cover: Ramones
+        source: '"Too Tough to Die: A Tribute to Johnny Ramone" film'
     'Mini-Epic (Kill for Your Country)':
         id: agOPYVuJZIU
         live: Cardiff 2004
         source: '"Cardiff, Wales: 6/23/04" live album'
-    'I Get Around':
-        id: Hz6ibuY_Ezw
-        live: Los Angeles 2005
-        cover: The Beach Boys
-        source: '"Rock & Roll Hall of Fame Covers" compilation album'
-    'Beverly Hills':
-        id: dRcXnH_Rshg
-        live: Rock In Rio 2001
-        cover: Circle Jerks
-        source: '"The Bridge School Collection, Vol.1" compilation album'
-    'I Just Want to Have Something to Do':
-        id: T9yxwWM62Nk
-        live: Mountain View 2004
-        cover: Ramones
-        source: '"The Bridge School Collection, Vol.1" compilation album'
+    'Psychedelic End Jam':
+        id: NG_Kbz7KCQo
+        live: Fukuoka 2002
+    'I See You':
+        id: YUMz4oDbGj0
+        live: Milan 2003
 'Stadium Arcadium':
     'Dani California':
         id: MSdD_7N-x0Q
@@ -772,6 +769,16 @@ title: Red Hot Chili Peppers
         id: 0DVffgsaRRU
         live: Orlando 2007
         source: B-side of "Hump de Bump"
+    'Beverly Hills':
+        id: dRcXnH_Rshg
+        live: Rock in Rio 2001
+        cover: Circle Jerks
+        source: '"The Bridge School Collection, Vol.1" album'
+    'I Just Want to Have Something to Do':
+        id: T9yxwWM62Nk
+        live: Mountain View 2004
+        cover: Ramones
+        source: '"The Bridge School Collection, Vol.1" album'
     'My Boy, My Girl':
         id: 0U2Cz4zGx6k
         live: London 2006
@@ -874,6 +881,11 @@ title: Red Hot Chili Peppers
         live: Manchester 2011
         cover: Neil Young
         source: '"Rock & Roll Hall of Fame Covers" compilation album'
+    'I Get Around':
+        id: Jfb-ASmZmW8
+        live: Los Angeles 2005
+        cover: The Beach Boys
+        source: '"Rock & Roll Hall of Fame Covers" EP'
     'Renaissance':
         id: Vr6uDiLyI9s
         live: Beirut 2012
