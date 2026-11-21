@@ -308,7 +308,7 @@
 1. :fire: "[Renaissance](https://www.youtube.com/watch?v=Vr6uDiLyI9s)" (live from Beirut 2012, from recording sessions)
 1. :fire: "[This Song Could Be All Your Love](https://www.youtube.com/watch?v=DHB6PtL7YL4)" (live from Sofia 2012)
 
-### [The Getaway](https://www.youtube.com/watch_videos?title=The%20Getaway&video_ids=smgGN-LxZuA,mmavgM4hYA4,K9gRuN6W1_U,fITTAIHWFuM,DmpuViZ4lgE,UxqQTfQ5SlU,-7eBFbLDz3g,-3CIabuzIM8,2JeJDklwEuc,HEjkDumKeU4,GFfzBFog_uQ,s2TO6-zct04,3c2lXO_-J7I,djgSAtV-13M,UvYiEj47Gwo)
+### [The Getaway](https://www.youtube.com/watch_videos?title=The%20Getaway&video_ids=smgGN-LxZuA,mmavgM4hYA4,K9gRuN6W1_U,fITTAIHWFuM,DmpuViZ4lgE,UxqQTfQ5SlU,-7eBFbLDz3g,-3CIabuzIM8,2JeJDklwEuc,HEjkDumKeU4,GFfzBFog_uQ,s2TO6-zct04,3c2lXO_-J7I,djgSAtV-13M,UvYiEj47Gwo,PxwdfNTQE04)
 1. :fire: "[The Getaway](https://www.youtube.com/watch?v=smgGN-LxZuA)" (live from Del Mar 2017)
 1. :fire: "[Dark Necessities](https://www.youtube.com/watch?v=mmavgM4hYA4)" (live from Del Mar 2017)
 1. :fire: "[We Turn Red](https://www.youtube.com/watch?v=K9gRuN6W1_U)" (live from Hannover 2016)
@@ -324,6 +324,7 @@
 1. :fire: "[Dreams of a Samurai](https://www.youtube.com/watch?v=3c2lXO_-J7I)" (live from Hannover 2016)
 1. :cd: "[Kaly](https://www.youtube.com/watch?v=djgSAtV-13M)" (from unreleased B-side)
 1. :cd: "[Outer Space](https://www.youtube.com/watch?v=UvYiEj47Gwo)" (from unreleased B-side)
+1. :fire: "[Stray Time in the 80s](https://www.youtube.com/watch?v=PxwdfNTQE04)" (live from Meadows Festival 2017)
 
 ### [Unlimited Love](https://www.youtube.com/watch_videos?title=Unlimited%20Love&video_ids=OS8taasZl8k,UoVWAd7qIWI,MIABpVRDb-I,5EuWBWxHs18,lxHWfCzS5uQ,ElI-G3QY3J0,ArYw6-6qKwM,E5HLF92vf9U,ouuFLTz499c,4jW2sIGimqU,IrtyWkRU2TM,g81F_2UfXzQ,zXNy-Osk1ek,t1TG63eDcfY,mtswRrd-V_U,iV_zvLTNMaM,ZL1pd0ebh_E,WJJhpy6JlLc)
 1. :cd: "[Black Summer](https://www.youtube.com/watch?v=OS8taasZl8k)"
