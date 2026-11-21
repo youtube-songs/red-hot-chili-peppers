@@ -404,7 +404,7 @@ title: Red Hot Chili Peppers
         live: Slane 2003
     'Easily':
         id: GDWcHya_ASo
-        live: Off The Map
+        live: Off the Map 2000
     'Porcelain':
         id: j0tHXHcq724
     'Emit Remmus':
@@ -428,6 +428,12 @@ title: Red Hot Chili Peppers
     "Road Trippin'":
         id: RoQ5d5e7uns
         live: Mountain View 2004
+    'How Strong':
+        id: ArQiPAzpx48
+        source: Australian edition bonus
+    'Instrumental #2':
+        id: 9jDHLbjoqYM
+        source: Australian edition bonus
     'Fat Dance':
         id: zzlxNsqKCwg
         source: deluxe edition
@@ -445,13 +451,10 @@ title: Red Hot Chili Peppers
         source: B-side of "Scar Tissue"
     'Teatro Jam':
         id: vyfwf8Kmnw8
-        source: B-side of "Around The World"
+        source: B-side of "Around the World"
     'Yertle Trilogy':
         id: xCqZSX_ZvSc
-        source: B-side of "Around The World"
-    'How Strong':
-        id: ArQiPAzpx48
-        source: B-side of "Otherside"
+        source: B-side of "Around the World"
     'End of Show Brisbane':
         id: vg_ah1hjDcI
         live: Brisbane 2000
@@ -460,30 +463,27 @@ title: Red Hot Chili Peppers
         id: 9-cFxN4odKg
         live: State College 2000
         source: B-side of "Californication"
-    'Instrumental #2':
-        id: 9jDHLbjoqYM
-        source: Australian edition
     "Tellin' A Lie":
         id: ZJZn1ABUWRI
-        source: Teatro Sessions
+        source: recording sessions
     'Mommasan':
         id: jF345qkBXF0
-        source: Teatro Sessions
+        source: recording sessions
     'Andaman & Nicobar':
         id: GjFXn3ZvlHc
-        source: Teatro Sessions
+        source: recording sessions
     'Sugar Sugar':
         id: 9l4OW37FhCE
-        source: Teatro Sessions
+        source: recording sessions
     'Trouble In The Pub':
         id: VXAgh_zkyGY
-        source: Teatro Sessions
+        source: recording sessions
     'Boatman':
         id: BY7TUfJSrpY
-        source: Teatro Sessions
+        source: recording sessions
     'Plate Of Brown':
         id: fkWqjouMdSs
-        source: Teatro Sessions
+        source: recording sessions
 'By The Way':
     'By the Way':
         id: Gtmnt-Ol1UY
