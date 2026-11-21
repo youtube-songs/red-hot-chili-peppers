@@ -653,19 +653,19 @@ title: Red Hot Chili Peppers
         live: Fukuoka 2002
     'I See You':
         id: YUMz4oDbGj0
-        live: Milan 2003
+        live: Milano 2003
 'Stadium Arcadium':
     'Dani California':
-        id: MSdD_7N-x0Q
+        id: lwNn5llOyTo
         live: Milano 2006
     'Snow (Hey Oh)':
         id: QMdx_vWmPyc
         live: Chorzów 2007
     'Charlie':
         id: MPLc5ahUR9U
-        live: Milan 2006
+        live: Milano 2006
     'Stadium Arcadium':
-        id: MYdJTR1i67Q
+        id: BejZi1kOAys
         live: Lisbon 2006
     'Hump de Bump':
         id: oNnyKhYRxas
@@ -677,10 +677,10 @@ title: Red Hot Chili Peppers
         id: -877RlLrhJA
     'Torture Me':
         id: mWwZi7N2YtY
-        live: Copenhague 2006
+        live: Copenhagen 2006
     'Strip My Mind':
-        id: r3KIEgXSJIE
-        live: Boston 2006
+        id: z_ks60O2s7w
+        live: Buenos Aires 2023
     'Especially in Michigan':
         id: 16zvMPHNAn4
     'Warlocks':
@@ -688,22 +688,22 @@ title: Red Hot Chili Peppers
         live: T in the Park 2006
     "C'mon Girl":
         id: MkkqXz1fo9s
-        live: Abbey Road Studios 2006
+        live: London 2006
     'Wet Sand':
         id: svJVi1SDUfQ
         live: Yuzawa 2006
     'Hey':
-        id: EaS1ST4GYQc
-        live: Tokyo 2007
+        id: 33XgVA7bkH8
+        live: Perth 2019
     'Desecration Smile':
-        id: yDxVqhK3oj8
-        live: AOL Session 2006
+        id: wcIHPNuWNwo
+        live: London 2006
     'Tell Me Baby':
         id: CoujavyWj6M
         live: Paris 2006
     'Hard to Concentrate':
-        id: tlxcOBTcTvg
-        live: Paris 2011
+        id: XDb7fgKKu8Q
+        live: Philadelphia 2017
     '21st Century':
         id: Q9OZpSgiLGQ
         live: Paris 2006
@@ -779,10 +779,25 @@ title: Red Hot Chili Peppers
         live: Mountain View 2004
         cover: Ramones
         source: '"The Bridge School Collection, Vol.1" album'
+    'Federation Square Jam':
+        id: oxDfFR32gpQ
+        live: Melbourne 2007
+        source: '"Eastern Rim" DVD by Chad Smith'
+    'Let the Good Times Roll':
+        id: rlcHi7RrtBQ
+        cover: Shirley and Lee
+        source: '"George Clinton and His Gangsters of Love" album by George Clinton'
     'My Boy, My Girl':
-        id: 0U2Cz4zGx6k
+        id: osTW3uf9iSM
         live: London 2006
         source: the live session in Canvas Club
+    'How Deep Is Your Love':
+        id: V7rAsndGj1Q
+        live: Lisbon 2006
+        cover: Bee Gees
+    'Chorzów Jam':
+        id: T5V9eaiKuxo
+        live: Chorzów 2007
 "I'm with You":
     'Monarchy of Roses':
         id: 6uFuvItikc0
