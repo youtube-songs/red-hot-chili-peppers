@@ -108,30 +108,32 @@
 1. :fire: "[Kip Winger](https://www.youtube.com/watch?v=3qYlUqUzFjc)" (live from Toronto 1991)
 1. :fire: "[Good to Your Earhole](https://www.youtube.com/watch?v=mTJwOaCXhFs)" (live from Rio de Janeiro 1993, Funkadelic cover)
 
-### [One Hot Minute](https://www.youtube.com/watch_videos?title=One%20Hot%20Minute&video_ids=xmyuJZH3RAc,0dE4pHUgqU0,kj4o-sbKYe4,0kT5w27YxyI,WkkKStRwokQ,BXJjBo_u3WM,AF4UaL08beU,SW4yvVhB1PE,CZbG9V5EyIM,T6Ii7D4rYrg,5531o-YeGtk,BwT8zKrjiJw,oyZ_-O3YVEY,72T4Xce8-x0,56PWNtiIV3o,8kFavNl07SE,S0wtM8PdaBQ,cF3KXXMJOPQ,qfbI82qdOls,4n6D8lB0A9w,fkCVhdy3Pis,31Iic15bkp4,ePKYs6eCzC8)
-1. :cd: "[Warped](https://www.youtube.com/watch?v=xmyuJZH3RAc)"
+### [One Hot Minute](https://www.youtube.com/watch_videos?title=One%20Hot%20Minute&video_ids=DBAEs2Sp4l4,0dE4pHUgqU0,kj4o-sbKYe4,KtF_W1t1K_A,KQOVaWbKdkk,7MTsu82Y3e4,AF4UaL08beU,HJCWCbkQQp4,CZbG9V5EyIM,T6Ii7D4rYrg,5531o-YeGtk,BwT8zKrjiJw,oyZ_-O3YVEY,qSAahkL6SeE,56PWNtiIV3o,8kFavNl07SE,S0wtM8PdaBQ,cF3KXXMJOPQ,qfbI82qdOls,CZfuqFWad2Q,fkCVhdy3Pis,31Iic15bkp4,L3oF94iSm6c,ePKYs6eCzC8,6aOLQnrvvGs)
+1. :fire: "[Warped](https://www.youtube.com/watch?v=DBAEs2Sp4l4)" (live from New York 1995)
 1. :fire: "[Aeroplane](https://www.youtube.com/watch?v=0dE4pHUgqU0)" (live from New York 1996)
 1. :cd: "[Deep Kick](https://www.youtube.com/watch?v=kj4o-sbKYe4)"
-1. :cd: "[My Friends](https://www.youtube.com/watch?v=0kT5w27YxyI)"
-1. :cd: "[Coffee Shop](https://www.youtube.com/watch?v=WkkKStRwokQ)"
-1. :cd: "[Pea](https://www.youtube.com/watch?v=BXJjBo_u3WM)"
+1. :fire: "[My Friends](https://www.youtube.com/watch?v=KtF_W1t1K_A)" (live from New York 1996)
+1. :cd: "[Coffee Shop](https://www.youtube.com/watch?v=KQOVaWbKdkk)"
+1. :fire: "[Pea](https://www.youtube.com/watch?v=7MTsu82Y3e4)" (live from Amsterdam 2016)
 1. :cd: "[One Big Mob](https://www.youtube.com/watch?v=AF4UaL08beU)"
-1. :cd: "[Walkabout](https://www.youtube.com/watch?v=SW4yvVhB1PE)"
+1. :cd: "[Walkabout](https://www.youtube.com/watch?v=HJCWCbkQQp4)"
 1. :cd: "[Tearjerker](https://www.youtube.com/watch?v=CZbG9V5EyIM)"
 1. :cd: "[One Hot Minute](https://www.youtube.com/watch?v=T6Ii7D4rYrg)"
 1. :cd: "[Falling into Grace](https://www.youtube.com/watch?v=5531o-YeGtk)"
 1. :cd: "[Shallow Be Thy Game](https://www.youtube.com/watch?v=BwT8zKrjiJw)"
 1. :cd: "[Transcending](https://www.youtube.com/watch?v=oyZ_-O3YVEY)"
-1. :cd: "[Bob](https://www.youtube.com/watch?v=72T4Xce8-x0)" (from deluxe edition)
+1. :cd: "[Bob](https://www.youtube.com/watch?v=qSAahkL6SeE)" (from deluxe edition)
 1. :cd: "[Melancholy Mechanics](https://www.youtube.com/watch?v=56PWNtiIV3o)" (from B-side of "Warped")
 1. :cd: "[Let's Make Evil](https://www.youtube.com/watch?v=8kFavNl07SE)" (from B-side of "My Friends")
 1. :cd: "[Stretch](https://www.youtube.com/watch?v=S0wtM8PdaBQ)" (from B-side of "My Friends")
 1. :fire: "[Suffragette City](https://www.youtube.com/watch?v=cF3KXXMJOPQ)" (live from Rotterdam 1995, David Bowie cover, from B-side of "Aeroplane")
-1. :cd: "[I Found Out](https://www.youtube.com/watch?v=qfbI82qdOls)" (John Lennon cover, from "Working Class Hero: A Tribute to John Lennon" compilation album)
-1. :cd: "[Love Rollercoaster](https://www.youtube.com/watch?v=4n6D8lB0A9w)" (Ohio Players cover, from "Beavis and Butt-Head Do America" soundtrack)
+1. :cd: "[I Found Out](https://www.youtube.com/watch?v=qfbI82qdOls)" (John Lennon cover, from "Working Class Hero: A Tribute to John Lennon" album)
+1. :cd: "[Love Rollercoaster](https://www.youtube.com/watch?v=CZfuqFWad2Q)" (Ohio Players cover, from "Beavis and Butt-Head Do America" soundtrack)
 1. :fire: "[Tiny Dancer](https://www.youtube.com/watch?v=fkCVhdy3Pis)" (live from Landgraaf 1990, Elton John cover, from "Under the Covers: Essential Red Hot Chili Peppers" compilation album)
 1. :fire: "[Dr. Funkenstein](https://www.youtube.com/watch?v=31Iic15bkp4)" (live from Lakewood 1989, Parliament cover, from "Under the Covers: Essential Red Hot Chili Peppers" compilation album)
-1. :cd: "[Circle Of The Noose](https://www.youtube.com/watch?v=ePKYs6eCzC8)" (from the sessions to follow up album)
+1. :cd: "[Blender](https://www.youtube.com/watch?v=L3oF94iSm6c)" (from recording sessions)
+1. :cd: "[Circle Of The Noose](https://www.youtube.com/watch?v=ePKYs6eCzC8)" (from recording sessions)
+1. :fire: "[I Wanna Be Your Dog](https://www.youtube.com/watch?v=6aOLQnrvvGs)" (live from New York 1996, The Stooges cover)
 
 ### [Californication](https://www.youtube.com/watch_videos?title=Californication&video_ids=ZqMseqjqwTo,R3_CSDD0lFc,eDN4GZkvd60,bFLs9mi6TK0,400TTymE4-I,vKX6AL1sLiI,GDWcHya_ASo,j0tHXHcq724,smVD9wVutrQ,jCN63r3kUMo,KQOFAhqGG9k,lt_toRKH4p4,Elsge3oYYYA,FaHKQBRFNHU,RoQ5d5e7uns,zzlxNsqKCwg,oj_w9EsAQzQ,sspiWqii5vw,g6TRzzfZjlU,zUTWSL_uSuE,vyfwf8Kmnw8,xCqZSX_ZvSc,ArQiPAzpx48,vg_ah1hjDcI,9-cFxN4odKg,9jDHLbjoqYM,ZJZn1ABUWRI,jF345qkBXF0,GjFXn3ZvlHc,9l4OW37FhCE,VXAgh_zkyGY,BY7TUfJSrpY,fkWqjouMdSs)
 1. :fire: "[Around the World](https://www.youtube.com/watch?v=ZqMseqjqwTo)" (live from Slane 2003)
