@@ -309,22 +309,25 @@ title: Red Hot Chili Peppers
         cover: Funkadelic
 'One Hot Minute':
     'Warped':
-        id: xmyuJZH3RAc
+        id: DBAEs2Sp4l4
+        live: New York 1995
     'Aeroplane':
         id: 0dE4pHUgqU0
         live: New York 1996
     'Deep Kick':
         id: kj4o-sbKYe4
     'My Friends':
-        id: 0kT5w27YxyI
+        id: KtF_W1t1K_A
+        live: New York 1996
     'Coffee Shop':
-        id: WkkKStRwokQ
+        id: KQOVaWbKdkk
     'Pea':
-        id: BXJjBo_u3WM
+        id: 7MTsu82Y3e4
+        live: Amsterdam 2016
     'One Big Mob':
         id: AF4UaL08beU
     'Walkabout':
-        id: SW4yvVhB1PE
+        id: HJCWCbkQQp4
     'Tearjerker':
         id: CZbG9V5EyIM
     'One Hot Minute':
@@ -336,7 +339,7 @@ title: Red Hot Chili Peppers
     'Transcending':
         id: oyZ_-O3YVEY
     'Bob':
-        id: 72T4Xce8-x0
+        id: qSAahkL6SeE
         source: deluxe edition
     'Melancholy Mechanics':
         id: 56PWNtiIV3o
@@ -355,9 +358,9 @@ title: Red Hot Chili Peppers
     'I Found Out':
         id: qfbI82qdOls
         cover: John Lennon
-        source: '"Working Class Hero: A Tribute to John Lennon" compilation album'
+        source: '"Working Class Hero: A Tribute to John Lennon" album'
     'Love Rollercoaster':
-        id: 4n6D8lB0A9w
+        id: CZfuqFWad2Q
         cover: Ohio Players
         source: '"Beavis and Butt-Head Do America" soundtrack'
     'Tiny Dancer':
@@ -370,9 +373,16 @@ title: Red Hot Chili Peppers
         live: Lakewood 1989
         cover: Parliament
         source: '"Under the Covers: Essential Red Hot Chili Peppers" compilation album'
+    'Blender':
+        id: L3oF94iSm6c
+        source: recording sessions
     'Circle Of The Noose':
         id: ePKYs6eCzC8
-        source: the sessions to follow up album
+        source: recording sessions
+    'I Wanna Be Your Dog':
+        id: 6aOLQnrvvGs
+        live: New York 1996
+        cover: The Stooges
 'Californication':
     'Around the World':
         id: ZqMseqjqwTo
