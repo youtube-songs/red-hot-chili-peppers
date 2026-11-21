@@ -326,12 +326,12 @@
 1. :cd: "[Outer Space](https://www.youtube.com/watch?v=UvYiEj47Gwo)" (from unreleased B-side)
 1. :fire: "[Stray Time in the 80s](https://www.youtube.com/watch?v=PxwdfNTQE04)" (live from Meadows Festival 2017)
 
-### [Unlimited Love](https://www.youtube.com/watch_videos?title=Unlimited%20Love&video_ids=OS8taasZl8k,UoVWAd7qIWI,MIABpVRDb-I,5EuWBWxHs18,lxHWfCzS5uQ,ElI-G3QY3J0,ArYw6-6qKwM,E5HLF92vf9U,ouuFLTz499c,4jW2sIGimqU,IrtyWkRU2TM,g81F_2UfXzQ,zXNy-Osk1ek,t1TG63eDcfY,mtswRrd-V_U,iV_zvLTNMaM,ZL1pd0ebh_E,WJJhpy6JlLc)
-1. :cd: "[Black Summer](https://www.youtube.com/watch?v=OS8taasZl8k)"
+### [Unlimited Love](https://www.youtube.com/watch_videos?title=Unlimited%20Love&video_ids=-UyBKOd6hPU,UoVWAd7qIWI,bNGrG-Y3JQc,5EuWBWxHs18,ioojKFSH6hM,ElI-G3QY3J0,ArYw6-6qKwM,E5HLF92vf9U,ouuFLTz499c,4jW2sIGimqU,IrtyWkRU2TM,g81F_2UfXzQ,zXNy-Osk1ek,t1TG63eDcfY,mtswRrd-V_U,iV_zvLTNMaM,ZL1pd0ebh_E,WJJhpy6JlLc,SYeSvwsREEk)
+1. :fire: "[Black Summer](https://www.youtube.com/watch?v=-UyBKOd6hPU)" (live from Inglewood 2025)
 1. :fire: "[Here Ever After](https://www.youtube.com/watch?v=UoVWAd7qIWI)" (live from New York 2022)
-1. :cd: "[Aquatic Mouth Dance](https://www.youtube.com/watch?v=MIABpVRDb-I)"
-1. :cd: "[Not The One](https://www.youtube.com/watch?v=5EuWBWxHs18)"
-1. :cd: "[Poster Child](https://www.youtube.com/watch?v=lxHWfCzS5uQ)"
+1. :fire: "[Aquatic Mouth Dance](https://www.youtube.com/watch?v=bNGrG-Y3JQc)" (live from Buenos Aires 2023)
+1. :cd: "[Not the One](https://www.youtube.com/watch?v=5EuWBWxHs18)"
+1. :cd: "[Poster Child](https://www.youtube.com/watch?v=ioojKFSH6hM)"
 1. :cd: "[The Great Apes](https://www.youtube.com/watch?v=ElI-G3QY3J0)"
 1. :cd: "[It's Only Natural](https://www.youtube.com/watch?v=ArYw6-6qKwM)"
 1. :cd: "[She's a Lover](https://www.youtube.com/watch?v=E5HLF92vf9U)"
@@ -344,7 +344,8 @@
 1. :cd: "[Let 'Em Cry](https://www.youtube.com/watch?v=mtswRrd-V_U)"
 1. :fire: "[The Heavy Wing](https://www.youtube.com/watch?v=iV_zvLTNMaM)" (live from New York 2022)
 1. :cd: "[Tangelo](https://www.youtube.com/watch?v=ZL1pd0ebh_E)"
-1. :cd: "[Nerve Flip](https://www.youtube.com/watch?v=WJJhpy6JlLc)" (from Japanese edition)
+1. :cd: "[Nerve Flip](https://www.youtube.com/watch?v=WJJhpy6JlLc)" (from Japanese edition bonus)
+1. :fire: "[Apollo Jam](https://www.youtube.com/watch?v=SYeSvwsREEk)" (live from New York 2022)
 
 ### [Return of the Dream Canteen](https://www.youtube.com/watch_videos?title=Return%20of%20the%20Dream%20Canteen&video_ids=E1FNkf3MLKY,jtOrOECJxHY,xQ4_XzpKcgM,tG72YeWSWjw,OIxRRR3gS_E,3f4ywoRXqOg,VZc6GDuw0p4,O2MTiMwghM8,Yxdigd6z7_Y,ePdKx8ed8SY,XGc5XmOY1Fo,aP-oFkZknS4,QyUx2sj3hfM,dsHTzbmZfL8,8lwkz1PFipU,UT_ufzSGcO0,oG5XXId9uGE,Lqf406eSorw)
 1. :cd: "[Tippa My Tongue](https://www.youtube.com/watch?v=E1FNkf3MLKY)"
