@@ -779,6 +779,11 @@ title: Red Hot Chili Peppers
         live: Mountain View 2004
         cover: Ramones
         source: '"The Bridge School Collection, Vol.1" album'
+    'I Get Around':
+        id: Jfb-ASmZmW8
+        live: Los Angeles 2005
+        cover: The Beach Boys
+        source: '"MusiCares Presents A Tribute to Brian Wilson" DVD'
     'Federation Square Jam':
         id: oxDfFR32gpQ
         live: Melbourne 2007
@@ -827,8 +832,8 @@ title: Red Hot Chili Peppers
         id: Kxsgbgg8_P0
         live: Köln 2011
     'Happiness Loves Company':
-        id: uC-Mr7eXPwA
-        live: Raleigh 2012
+        id: Dhknq6332go
+        live: Köln 2011
     'Police Station':
         id: CdLteAQeofc
         live: Sunrise 2012
@@ -840,71 +845,69 @@ title: Red Hot Chili Peppers
     'Dance, Dance, Dance':
         id: 9qEcH3vhf_w
         live: Köln 2011
-    'Strange Man':
-        id: DmPPONFRla4
-        source: I'm with You Sessions
-    'Long Progression':
-        id: XBtSHoflrVY
-        source: I'm with You Sessions
-    'Magpies on Fire':
-        id: Odw2fQOQBFc
-        source: I'm with You Sessions
-    'Victorian Machinery':
-        id: o-4Fo-gJnXU
-        source: I'm with You Sessions
-    'Never Is a Long Time':
-        id: pxAqxI5R6RA
-        source: I'm with You Sessions
-    'Love of Your Life':
-        id: g4LFjWlcoF8
-        source: I'm with You Sessions
-    'The Sunset Sleeps':
-        id: KUlSJGgTulY
-        source: I'm with You Sessions
-    'Hometown Gypsy':
-        id: chVLUCdK_zY
-        source: I'm with You Sessions
-    'Pink as Floyd':
-        id: bcP-nC0lWTc
-        source: I'm with You Sessions
-    'Your Eyes Girl':
-        id: NI6OHk-docQ
-        source: I'm with You Sessions
-    'In Love Dying':
-        id: 2uhTHpf0c9E
-        source: I'm with You Sessions
-    'Catch My Death':
-        id: tPvA1Xhp1Jk
-        source: I'm with You Sessions
-    'How It Ends':
-        id: 6K02Xu9P9wo
-        source: I'm with You Sessions
-    'This Is the Kitt':
-        id: To9yNezdHp8
-        source: I'm with You Sessions
-    'Brave From Afar':
-        id: _Mx82hTic90
-        source: I'm with You Sessions
-    'Hanalei':
-        id: UGVzkSg0ZV0
-        source: I'm with You Sessions
-    'Open/Close':
-        id: VwWV62EfYkU
-        source: I'm with You Sessions
     'Everybody Knows This Is Nowhere':
-        id: VCjeTJu-tfY
+        id: l0DIbYT0hMY
         live: Manchester 2011
         cover: Neil Young
-        source: '"Rock & Roll Hall of Fame Covers" compilation album'
-    'I Get Around':
-        id: Jfb-ASmZmW8
-        live: Los Angeles 2005
-        cover: The Beach Boys
         source: '"Rock & Roll Hall of Fame Covers" EP'
+    'Strange Man':
+        id: DmPPONFRla4
+        source: '"Strange Man" single'
+    'Long Progression':
+        id: XBtSHoflrVY
+        source: B-side of "Strange Man"
+    'Magpies on Fire':
+        id: Odw2fQOQBFc
+        source: '"Magpies on Fire" single'
+    'Victorian Machinery':
+        id: o-4Fo-gJnXU
+        source: B-side of "Magpies on Fire"
+    'Never Is a Long Time':
+        id: pxAqxI5R6RA
+        source: '"Never Is a Long Time" single'
+    'Love of Your Life':
+        id: g4LFjWlcoF8
+        source: B-side of "Never Is a Long Time"
+    'The Sunset Sleeps':
+        id: KUlSJGgTulY
+        source: '"The Sunset Sleeps" single'
+    'Hometown Gypsy':
+        id: chVLUCdK_zY
+        source: B-side of "The Sunset Sleeps"
+    'Pink as Floyd':
+        id: bcP-nC0lWTc
+        source: '"Pink as Floyd" single'
+    'Your Eyes Girl':
+        id: NI6OHk-docQ
+        source: B-side of "Pink as Floyd"
+    'In Love Dying':
+        id: 2uhTHpf0c9E
+        source: '"In Love Dying" single'
+    'Catch My Death':
+        id: tPvA1Xhp1Jk
+        source: '"Catch My Death" single'
+    'How It Ends':
+        id: 6K02Xu9P9wo
+        source: B-side of "Catch My Death"
+    'This Is the Kitt':
+        id: To9yNezdHp8
+        source: '"This Is the Kitt" single'
+    'Brave from Afar':
+        id: _Mx82hTic90
+        source: B-side of "This Is the Kitt"
+    'Hanalei':
+        id: UGVzkSg0ZV0
+        source: '"Hanalei" single'
+    'Open/Close':
+        id: VwWV62EfYkU
+        source: B-side of "Hanalei"
     'Renaissance':
         id: Vr6uDiLyI9s
         live: Beirut 2012
-        source: '"I''m with You" sessions'
+        source: recording sessions
+    'This Song Could Be All Your Love':
+        id: DHB6PtL7YL4
+        live: Sofia 2012
 'The Getaway':
     'The Getaway':
         id: smgGN-LxZuA
