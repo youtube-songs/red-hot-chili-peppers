@@ -1,5 +1,7 @@
 # Red Hot Chili Peppers
 
+:exclamation: Incorrect songs: "Love Trilogy", "Organic Anti-Beat Box Band" :exclamation:
+
 ### [The Red Hot Chili Peppers](https://www.youtube.com/watch_videos?title=The%20Red%20Hot%20Chili%20Peppers&video_ids=j8rDtFvrKVI,Uz2lXK5rS5k,8w-3scXBQLk,-JAM-UDQT5M,M7vfnAhvKJ8,o8YbEFnygZA,AVd7w7YPbSc,EZmWQwX5Fv4,KbPKw4cLO5Q,t8HyxBQnd1Q,i_XFb9esiWA,Ev64bPz7gc8,2wcSUCaoBQM)
 1. :fire: "[True Men Don't Kill Coyotes](https://www.youtube.com/watch?v=j8rDtFvrKVI)" (live from Rockpalast 1985)
 1. :fire: "[Baby Appeal](https://www.youtube.com/watch?v=Uz2lXK5rS5k)" (live from Rockpalast 1985)
